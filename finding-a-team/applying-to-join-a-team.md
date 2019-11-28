@@ -12,7 +12,7 @@ If this is your first time on Campfire, you'll also be greeted with an onboardin
 
 Navigate to the _All Locations_ page, or click on the `Find a team [2]` step if you have the onboarding checklist.
 
-If you are on a mobile device, the navigation menu can be opened using the menu button in the top-left corner of the screen.
+If you're on a mobile device, the navigation menu can be opened using the menu button in the top-left corner of the screen.
 
 ![Mobile navigation menu location](./mobile-menu-location.png)
 
@@ -28,7 +28,7 @@ Once you have a location selected you will see the details open underneath. From
 
 When you apply for a team you are simply expressing your interest in joining the team that runs that particular shift. You should chose teams from shifts that are in a time and place that makes regular volunteering easy for you.
 
-While you are waiting for a manager view your team application, you can manage all pending enrollments through your _My Shifts_ page.
+While you are waiting for a manager view your team application, you can find your pending enrollments back on your _My Shifts_ page.
 
 ![Waiting to be enrolled in a team](./waiting-for-enrolment.png)
 

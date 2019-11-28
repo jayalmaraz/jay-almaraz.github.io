@@ -8,6 +8,11 @@ Once your contract has been verified, you'll have access to your full volunteeri
 
 If this is your first time on Campfire, you'll also be greeted with an onboarding checklist `[1]`. You can open the onboarding checklist at any time, and click on the active step - which will be marked with a blue button `[2]` - to be taken to the right place.
 
+_On this page:_
+
+1. Onboarding checklist
+2. Active step
+
 ![Landing on the My Shifts page](./applying-to-join-a-team-assets/landing-and-checklist.png)
 
 Navigate to the _All Locations_ page, or click on the `Find a team [2]` step if you have the onboarding checklist.
@@ -24,7 +29,13 @@ Open a location by clicking a pin on the map `[1]` or by selecting it from the l
 
 Once you have a location selected you will see the details open underneath. From here you can apply to join any team by hitting the `Apply for team` button `[3]`.
 
-![The All Locations page](./aapplying-to-join-a-team-assets/ll-locations.png)
+_On this page:_
+
+1. Locations map
+2. Locations list
+3. Apply for team button
+
+![The All Locations page](./applying-to-join-a-team-assets/all-locations.png)
 
 When you apply for a team you are simply expressing your interest in joining the team that runs that particular shift. You should chose teams from shifts that are in a time and place that makes regular volunteering easy for you.
 

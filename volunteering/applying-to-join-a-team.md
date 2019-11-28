@@ -8,13 +8,13 @@ Once your contract has been verified, you'll have access to your full volunteeri
 
 If this is your first time on Campfire, you'll also be greeted with an onboarding checklist `[1]`. You can open the onboarding checklist at any time, and click on the active step - which will be marked with a blue button `[2]` - to be taken to the right place.
 
-![Landing on the My Shifts page](./landing-and-checklist.png)
+![Landing on the My Shifts page](./applying-to-join-a-team-assets/landing-and-checklist.png)
 
 Navigate to the _All Locations_ page, or click on the `Find a team [2]` step if you have the onboarding checklist.
 
 If you're on a mobile device, the navigation menu can be opened using the menu button in the top-left corner of the screen.
 
-![Mobile navigation menu location](./mobile-menu-location.png)
+![Mobile navigation menu location](./applying-to-join-a-team-assets/mobile-menu-location.png)
 
 ## Finding a team using All Locations
 
@@ -24,12 +24,12 @@ Open a location by clicking a pin on the map `[1]` or by selecting it from the l
 
 Once you have a location selected you will see the details open underneath. From here you can apply to join any team by hitting the `Apply for team` button `[3]`.
 
-![The All Locations page](./all-locations.png)
+![The All Locations page](./aapplying-to-join-a-team-assets/ll-locations.png)
 
 When you apply for a team you are simply expressing your interest in joining the team that runs that particular shift. You should chose teams from shifts that are in a time and place that makes regular volunteering easy for you.
 
 While you are waiting for a manager view your team application, you can find your pending enrollments back on your _My Shifts_ page.
 
-![Waiting to be enrolled in a team](./waiting-for-enrolment.png)
+![Waiting to be enrolled in a team](./applying-to-join-a-team-assets/waiting-for-enrolment.png)
 
 As soon as a manager enrolls you in a team we'll send you an email. After that you'll be able to kick off your rosters and apply to get out on an upcoming shift.

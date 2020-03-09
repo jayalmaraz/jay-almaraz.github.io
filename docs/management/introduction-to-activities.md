@@ -33,33 +33,33 @@ With Activities comes an updated set of terminology. These new names have been c
 ### Words that have changed
 {: .no_toc }
 
-| Old Word        | New Word        | Meaning |
-| --------------- | --------------- | ------- |
-| Shift           | Activity        | ...     |
-| Shift Report    | Activity Report | ...     |
-| City            | Program         | ...     |
-| Service Manager | Program Manager | ...     |
-| Team Leader     | Activity Leader | ...     |
+| Old Word        | New Word        |
+| --------------- | --------------- |
+| Shift           | Activity        |
+| Shift Report    | Activity Report |
+| City            | Program         |
+| Service Manager | Program Manager |
+| Team Leader     | Activity Leader |
 
 ### Pages that have changed
 {: .no_toc }
 
-| Old Page         | New Page         | Why? |
-| ---------------- | ---------------- | ---- |
-| All Locations    | Explore          | ...  |
-| My Shifts        | My Activities    | ...  |
-| Shift Report     | Activity Report  | ...  |
-| Service Managers | Program Managers | ...  |
+| Old Page         | New Page         |
+| ---------------- | ---------------- |
+| All Locations    | Explore          |
+| My Shifts        | My Activities    |
+| Shift Report     | Activity Report  |
+| Service Managers | Program Managers |
 
 ### Pages that have been absorbed by Activities Console
 {: .no_toc }
 
-| Pre-Activities Console | Meaning |
-| ---------------------- | ------- |
-| Completed Shifts       | ...     |
-| Roster                 | ...     |
-| Team Builder           | ...     |
-| Shift Management       | ...     |
+| Pre-Activities Console |
+| ---------------------- |
+| Completed Shifts       |
+| Roster                 |
+| Team Builder           |
+| Shift Management       |
 
 ## Campfire Structure
 {: .fs-9 }

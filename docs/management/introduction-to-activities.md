@@ -5,16 +5,14 @@ parent: Management
 nav_order: 1
 ---
 
-# Welcome to Activities
-
+# Buttons
 {: .no_toc }
 
 ## Table of contents
-
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 ---
 

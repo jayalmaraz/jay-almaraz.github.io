@@ -5,14 +5,14 @@ parent: Management
 nav_order: 1
 ---
 
-# Introduction to Activities
+<!-- # Introduction to Activities
 {: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
-{:toc}
+{:toc} -->
 
 ---
 
@@ -31,7 +31,8 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 
 ### Changes to Terminology and Pages
 
-#### Words that have changed
+<!-- #### Words that have changed
+{: .no_toc } -->
 
 | Old Word        | New Word        | Meaning |
 | --------------- | --------------- | ------- |
@@ -41,7 +42,8 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 | Service Manager | Program Manager | ...     |
 | Team Leader     | Activity Leader | ...     |
 
-#### Pages that have changed
+<!-- #### Pages that have changed
+{: .no_toc } -->
 
 | Old Page         | New Page         | Why? |
 | ---------------- | ---------------- | ---- |
@@ -50,7 +52,8 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 | Shift Report     | Activity Report  | ...  |
 | Service Managers | Program Managers | ...  |
 
-#### Pages that have been absorbed by Activities Console
+<!-- #### Pages that have been absorbed by Activities Console
+{: .no_toc } -->
 
 | Pre-Activities Console | Meaning |
 | ---------------------- | ------- |
@@ -99,5 +102,19 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 8. **All Volunteers** -- All _other_ volunteers who are in the selected Activity's Program.
 
 ## Submitting Activity Reports
+
+![A labelled diagram of the Activities Console past Activity Report interface](./introduction-to-activities-assets/act-cnl-past-report.png)
+
+1. **Activity Name** -- Use this to navigate up to the Overview page for the selected Activity.
+2. **Cancel Activity Button** -- Use this Cancel feature if the selected Activity was cancelled retrospectively.
+3. **Session Report Card** -- There is technically no 'Activity Report' submission, only the accumulation of all of that Activity's Session Reports. These Session Reports can be individually _Omitted_ if they didn't run, or produced no report.
+4. **Roster** -- A snapshot of the Published Roster at the time of the Activity running - useful when comparing/editing attendances.
+
+![A labelled diagram of the General Volunteer Activity Report interface](./introduction-to-activities-assets/activity-report.png)
+
+1. **Activity and Date Selection Fields** -- These are used to specify the activity and date to begin creating Session Reports.
+2. **Activity Name** -- Use this to deselect the current date and discard any Session Reports that were in progress.
+3. **Cancel Activity Button** -- Use this Cancel feature if the selected Activity was cancelled retrospectively.
+4. **Session Report Card** -- There is technically no 'Activity Report' submission, only the accumulation of all of that Activity's Session Reports. These Session Reports can be individually _Omitted_ if they didn't run, or produced no report.
 
 ## Activity Overview

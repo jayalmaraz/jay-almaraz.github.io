@@ -5,7 +5,7 @@ parent: Management
 nav_order: 1
 ---
 
-# Introducing Activities
+# Introduction to Activities
 {: .no_toc }
 
 ## Table of contents
@@ -16,11 +16,11 @@ nav_order: 1
 
 ---
 
-## What are Activities?
+## What are Activities, and why do they exist?
 
 Activities are our way of connecting volunteers with amazing opportunities. An Activity on Campfire can be anything: a weekly shift, a weekend event, or a standalone speaking engagement or activation. Let's find out how a Activities fit into the structure of your operations.
 
-### Structure and motivation
+### Structure
 
 ![Campfire application form preview](./introduction-to-activities-assets/org-structure.png)
 
@@ -66,12 +66,11 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 1. **Activities Console Tabs** -- Use these to change views while using the Activities Console. The `Map` view is available on desktop. The `List` view is the mobile equivalent of the map, useful for quickly finding an activity. `Timeline` is a more complex interface, presenting all historic and upcoming Activity dates, allowing you to access any past/present Activity Report or future Roster from a single place.
 2. **Management Tools** -- Toolbar for creating/managing Activities and Report Types. As more management tools are added they will appear here (i.e. Program Management `coming soon`).
 
-
 ### Map View
 
 ![Activities Console Map View Labelled Diagram](./introduction-to-activities-assets/act-cnl-map.png)
 
-1. **Search Bar** -- Use this to search for any Activity within the current filters
+1. **Search Bar** -- Use this to search for any Activity within the current filters.
 2. **Filters** -- Use the filter settings to show more or fewer Activities. You can apply settings to view Activities across multiple programs, or narrow your search down by day, duration, and time.
 3. **List** -- The list of Activities returned by the filter and search settings. Click on any activity to open the `Overview` interface.
 4. **Map** -- A map view of the listed Activities.
@@ -80,28 +79,24 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 
 ![A labelled diagram of the Activities Console Timeline Directory side navigation component](./introduction-to-activities-assets/log.png)
 
-1. **Search Bar** -- abc
-2. **Date Selection** -- abc
-3. **Timeline Switch** -- abc
-4. **Filters** -- abc
-5. **List** -- abc
-
-
-> Activities Console Map Screenshot 1
+1. **Search Bar** -- Search for any activity by name.
+2. **Date Selection** -- Select a month and year to view within the timeline.
+3. **Timeline Switch** -- Switch between viewing past Activity dates (_History_) and future (_Upcoming_) dates.
+4. **Filters** -- Filter the timeline by _status_, _Program_, and _Activity_.
+5. **List** -- The list of Activities returned by the search, date, and filter settings.
 
 ## Rostering with Activities
 
 ![A labelled diagram of the Activities Console Roster interface](./introduction-to-activities-assets/roster.png)
 
-
-1. **Activity Name** -- abc
-2. **Cancel Activity Button** -- abc
-3. **Roster Drafting Tools** -- abc
-4. **Roster Publishing Tools** -- abc
-5. **Available Volunteers** -- abc
-6. **Activity Volunteers** -- abc
-7. **Unavailable Volunteers** -- abc
-8. **All Volunteers** -- abc
+1. **Activity Name** -- Use this to navigate up to the Overview page for the selected Activity.
+2. **Cancel Activity Button** -- Open the Cancel Activity dialog for the selected Activity and date.
+3. **Roster Drafting Tools** -- _Save_ or _Discard_ changes as you go, if the roster isn't ready to be published.
+4. **Roster Publishing Tools** -- View the final list of rostered volunteers, and _Publish_ the roster when it's ready to go.
+5. **Available Volunteers** -- A list of all of the volunteers who have responded to this Activity date, and have indicated an availability for one or more sessions.
+6. **Activity Volunteers** -- Volunteers who are enrolled in the selected Activity but have not submitted any availability preferences for the given date.
+7. **Unavailable Volunteers** -- Volunteers who have indicated an unavailability for the date selected.
+8. **All Volunteers** -- All _other_ volunteers who are in the selected Activity's Program.
 
 ## Submitting Activity Reports
 

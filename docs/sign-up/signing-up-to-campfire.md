@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create a Campfire account
+title: Creating a Campfire account
 parent: Signing Up
 nav_order: 1
 ---

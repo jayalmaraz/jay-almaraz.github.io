@@ -61,22 +61,48 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 
 ## Using the Activities Console
 
-> Activities Console Screenshot 1
+![Activities Console Header Labelled Diagram](./introduction-to-activities-assets/act-cnl-header.png)
 
-![Campfire application form preview](./introduction-to-activities-assets/act-cnl-header.png)
-
-
-### Map/List
-
-> Activities Console Map Screenshot 1
-
-![Campfire application form preview](./introduction-to-activities-assets/act-cnl-map.png)
+1. **Activities Console Tabs** -- Use these to change views while using the Activities Console. The `Map` view is available on desktop. The `List` view is the mobile equivalent of the map, useful for quickly finding an activity. `Timeline` is a more complex interface, presenting all historic and upcoming Activity dates, allowing you to access any past/present Activity Report or future Roster from a single place.
+2. **Management Tools** -- Toolbar for creating/managing Activities and Report Types. As more management tools are added they will appear here (i.e. Program Management `coming soon`).
 
 
-### Timeline
+### Map View
+
+![Activities Console Map View Labelled Diagram](./introduction-to-activities-assets/act-cnl-map.png)
+
+1. **Search Bar** -- Use this to search for any Activity within the current filters
+2. **Filters** -- Use the filter settings to show more or fewer Activities. You can apply settings to view Activities across multiple programs, or narrow your search down by day, duration, and time.
+3. **List** -- The list of Activities returned by the filter and search settings. Click on any activity to open the `Overview` interface.
+4. **Map** -- A map view of the listed Activities.
+
+### Timeline View
+
+![A labelled diagram of the Activities Console Timeline Directory side navigation component](./introduction-to-activities-assets/log.png)
+
+1. **Search Bar** -- abc
+2. **Date Selection** -- abc
+3. **Timeline Switch** -- abc
+4. **Filters** -- abc
+5. **List** -- abc
+
 
 > Activities Console Map Screenshot 1
 
 ## Rostering with Activities
 
+![A labelled diagram of the Activities Console Roster interface](./introduction-to-activities-assets/roster.png)
+
+
+1. **Activity Name** -- abc
+2. **Cancel Activity Button** -- abc
+3. **Roster Drafting Tools** -- abc
+4. **Roster Publishing Tools** -- abc
+5. **Available Volunteers** -- abc
+6. **Activity Volunteers** -- abc
+7. **Unavailable Volunteers** -- abc
+8. **All Volunteers** -- abc
+
 ## Submitting Activity Reports
+
+## Activity Overview

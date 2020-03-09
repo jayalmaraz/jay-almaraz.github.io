@@ -1,3 +1,10 @@
+---
+layout: default
+title: Creating a new Activity
+parent: Management
+nav_order: 1
+---
+
 # Creating a new shift
 
 In this guide we will run you through creating a new shift in Campfire. Shifts are a core system, and form the base for teams, rosters, and shift reports. Volunteers join teams which are tied to shifts. Managers publish rosters which use volunteers from a team. Shift reports are submitted to tie your on-the-ground impact with a specific time, place, and team of vollies; a shift!

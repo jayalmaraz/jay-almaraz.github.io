@@ -1,3 +1,10 @@
+---
+layout: default
+title: Create a Campfire account
+parent: Signing Up
+nav_order: 1
+---
+
 # Signing up to Campfire
 
 Before you begin your volunteering journey on Campfire, you'll need to have a Campfire account. This article outlines the steps to help get you set up.

@@ -135,7 +135,7 @@ Rosters have received a facelift. The same basic breakdown of volunteer pools re
 ## Submitting Activity Reports
 {: .fs-10 }
 
-An Activity Report exists as the collection of Session Reports for the given activity and date.
+An Activity Report exists as the collection of Session Reports for the given activity and date. Reports can be access either through the _Timeline_ view on the Activities Console (for Program Managers and Activity Leaders) or through the _Activity Report_ page in the Volunteer section of the side bar.
 
 ![A labelled diagram of the Activities Console past Activity Report interface](./introduction-to-activities-assets/act-cnl-past-report.png)
 

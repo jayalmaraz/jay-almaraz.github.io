@@ -5,18 +5,19 @@ parent: Management
 nav_order: 1
 ---
 
-<!-- # Introduction to Activities
+# Introduction to Activities
 {: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
-{:toc} -->
+{:toc}
 
 ---
 
 ## What are Activities, and why do they exist?
+{: .fs-10 }
 
 Activities are our way of connecting volunteers with amazing opportunities. An Activity on Campfire can be anything: a weekly shift, a weekend event, or a standalone speaking engagement or activation. Let's find out how a Activities fit into the structure of your operations.
 
@@ -31,8 +32,8 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 
 ### Changes to Terminology and Pages
 
-<!-- #### Words that have changed
-{: .no_toc } -->
+#### Words that have changed
+{: .no_toc }
 
 | Old Word        | New Word        | Meaning |
 | --------------- | --------------- | ------- |
@@ -42,8 +43,8 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 | Service Manager | Program Manager | ...     |
 | Team Leader     | Activity Leader | ...     |
 
-<!-- #### Pages that have changed
-{: .no_toc } -->
+#### Pages that have changed
+{: .no_toc }
 
 | Old Page         | New Page         | Why? |
 | ---------------- | ---------------- | ---- |
@@ -52,8 +53,8 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 | Shift Report     | Activity Report  | ...  |
 | Service Managers | Program Managers | ...  |
 
-<!-- #### Pages that have been absorbed by Activities Console
-{: .no_toc } -->
+#### Pages that have been absorbed by Activities Console
+{: .no_toc }
 
 | Pre-Activities Console | Meaning |
 | ---------------------- | ------- |
@@ -63,6 +64,7 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 | Shift Management       | ...     |
 
 ## Using the Activities Console
+{: .fs-10 }
 
 ![Activities Console Header Labelled Diagram](./introduction-to-activities-assets/act-cnl-header.png)
 
@@ -70,6 +72,7 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 2. **Management Tools** -- Toolbar for creating/managing Activities and Report Types. As more management tools are added they will appear here (i.e. Program Management `coming soon`).
 
 ### Map View
+{: .fs-9 }
 
 ![Activities Console Map View Labelled Diagram](./introduction-to-activities-assets/act-cnl-map.png)
 
@@ -79,6 +82,7 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 4. **Map** -- A map view of the listed Activities.
 
 ### Timeline View
+{: .fs-9 }
 
 ![A labelled diagram of the Activities Console Timeline Directory side navigation component](./introduction-to-activities-assets/log.png)
 
@@ -89,6 +93,7 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 5. **List** -- The list of Activities returned by the search, date, and filter settings.
 
 ## Rostering with Activities
+{: .fs-10 }
 
 ![A labelled diagram of the Activities Console Roster interface](./introduction-to-activities-assets/roster.png)
 
@@ -102,6 +107,7 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 8. **All Volunteers** -- All _other_ volunteers who are in the selected Activity's Program.
 
 ## Submitting Activity Reports
+{: .fs-10 }
 
 ![A labelled diagram of the Activities Console past Activity Report interface](./introduction-to-activities-assets/act-cnl-past-report.png)
 
@@ -116,5 +122,3 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 2. **Activity Name** -- Use this to deselect the current date and discard any Session Reports that were in progress.
 3. **Cancel Activity Button** -- Use this Cancel feature if the selected Activity was cancelled retrospectively.
 4. **Session Report Card** -- There is technically no 'Activity Report' submission, only the accumulation of all of that Activity's Session Reports. These Session Reports can be individually _Omitted_ if they didn't run, or produced no report.
-
-## Activity Overview

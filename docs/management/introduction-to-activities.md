@@ -5,7 +5,7 @@ parent: Management
 nav_order: 1
 ---
 
-# Buttons
+# Introducing Activities
 {: .no_toc }
 
 ## Table of contents
@@ -22,9 +22,9 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 
 ### Structure and motivation
 
-> INSERT DIAGRAM HERE
+![Campfire application form preview](./introduction-to-activities-assets/org-structure.png)
 
-1. **Organisation** -- Your organisation sits at the very top of your Campfire account. Settings such as your application screening questions, onboarding pre-requisities, activity roles, and eventually Report Types all sit at the organisational level.
+1. **Organisation** -- Your organisation sits at the very top of your Campfire account. Settings such as your application screening questions, onboarding prerequisite, activity roles, and eventually Report Types all sit at the organisational level.
 1. **Program** -- Programs are used to break down your volunteers and activities into manageable pools. Programs might be region based, or structured by the type of operation that they contain, or both! The Program Manager role can be assigned to split the work between your leaders and managers.
 1. **Activity** -- The core of Campfire operations, Activities are where volunteers are connected with your mission. Rosters and Reports are all managed through activities; we cover how to use these systems further down the page.
 1. **Session** -- Within an Activity there are Sessions. A Session is simply used to distinguish individual units of work. An Activity may have one session, or several.
@@ -63,9 +63,15 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 
 > Activities Console Screenshot 1
 
+![Campfire application form preview](./introduction-to-activities-assets/act-cnl-header.png)
+
+
 ### Map/List
 
 > Activities Console Map Screenshot 1
+
+![Campfire application form preview](./introduction-to-activities-assets/act-cnl-map.png)
+
 
 ### Timeline
 

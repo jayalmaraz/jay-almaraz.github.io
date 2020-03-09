@@ -19,20 +19,18 @@ nav_order: 1
 ## What are Activities, and why do they exist?
 {: .fs-10 }
 
-Activities are our way of connecting volunteers with amazing opportunities. An Activity on Campfire can be anything: a weekly shift, a weekend event, or a standalone speaking engagement or activation. Let's find out how a Activities fit into the structure of your operations.
+Activities are our way of connecting volunteers with amazing opportunities. An Activity on Campfire can be anything: a weekly shift, a weekend event, a standalone speaking engagement, or a massive all-day activation.
 
-### Structure
+We have a vision for volunteering that is inclusive of, but also extends far beyond, the regular week-by-week service model that our previous system (Shifts) were bias towards. You have a dedicated, passionate, and diverse pool of volunteers who are all driven by a common desire to do good, and to be a part of something bigger than themselves. With Activities, we are building an ecosystem wherein your vollies can feel more engaged and be even closer to new volunteering opportunities as they arise.
 
-![Campfire application form preview](./introduction-to-activities-assets/org-structure.png)
+In this article we'll be introducing the fundamentals of Activities, and all of their supporting systems. Let's find out how Activities fit into your operations.
 
-1. **Organisation** -- Your organisation sits at the very top of your Campfire account. Settings such as your application screening questions, onboarding prerequisite, activity roles, and eventually Report Types all sit at the organisational level.
-1. **Program** -- Programs are used to break down your volunteers and activities into manageable pools. Programs might be region based, or structured by the type of operation that they contain, or both! The Program Manager role can be assigned to split the work between your leaders and managers.
-1. **Activity** -- The core of Campfire operations, Activities are where volunteers are connected with your mission. Rosters and Reports are all managed through activities; we cover how to use these systems further down the page.
-1. **Session** -- Within an Activity there are Sessions. A Session is simply used to distinguish individual units of work. An Activity may have one session, or several.
+## Changes to Terminology and Pages
+{: .fs-10 }
 
-### Changes to Terminology and Pages
+With Activities comes an updated set of terminology. These new names have been chosen to make the systems less tied to shifts, services, and cities. This allows us to continue to build powerful features into Activities without being inconsistent with our choice of words.
 
-#### Words that have changed
+### Words that have changed
 {: .no_toc }
 
 | Old Word        | New Word        | Meaning |
@@ -43,7 +41,7 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 | Service Manager | Program Manager | ...     |
 | Team Leader     | Activity Leader | ...     |
 
-#### Pages that have changed
+### Pages that have changed
 {: .no_toc }
 
 | Old Page         | New Page         | Why? |
@@ -53,7 +51,7 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 | Shift Report     | Activity Report  | ...  |
 | Service Managers | Program Managers | ...  |
 
-#### Pages that have been absorbed by Activities Console
+### Pages that have been absorbed by Activities Console
 {: .no_toc }
 
 | Pre-Activities Console | Meaning |
@@ -63,8 +61,28 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 | Team Builder           | ...     |
 | Shift Management       | ...     |
 
+## Campfire Structure
+{: .fs-9 }
+
+It's important to understand the basic structure of Campfire to see how Activities fir into the system. As outlined above, we've made a few changes to terminology as well. The new names and pages will be referenced constantly throughout this guide and the Campfire application.
+
+![Campfire entity structure breakdown](./introduction-to-activities-assets/org-structure.png)
+
+1. **Organisation** -- Your organisation sits at the very top of your Campfire account. Settings such as your application screening questions, onboarding prerequisite, activity roles, and eventually Report Types all sit at the organisational level.
+1. **Program** -- Programs are used to break down your volunteers and activities into manageable pools. Programs might be region based, or structured by the type of operation that they contain, or both! The Program Manager role can be assigned to split the work between your leaders and managers.
+1. **Activity** -- The core of Campfire operations, Activities are where volunteers are connected with your mission. Rosters and Reports are all managed through activities; we cover how to use these systems further down the page.
+1. **Session** -- Within an Activity there are Sessions. A Session is simply used to distinguish individual units of work. An Activity may have one session, or several.
+
 ## Using the Activities Console
 {: .fs-10 }
+
+The _Activities Console_ is a massively overhauled interface, which includes all of the functionality that the Completed Shifts, Roster, Team Builder, and Shift Management pages once did. On top of the core functionality, we've reimagined _Activities Console_ to be far more powerful for managing your operations from a single place.
+
+In this section we'll introduce the new interfaces and describe the location of key toolsets. A little further in we will cover where to find and how to use the new Roster and Reporting systems.
+
+### Activity Console Header
+
+The header that is persistent across almost all Activity Console view.
 
 ![Activities Console Header Labelled Diagram](./introduction-to-activities-assets/act-cnl-header.png)
 
@@ -73,6 +91,8 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 
 ### Map View
 {: .fs-9 }
+
+Activities are presented on the Map, alongside powerful filters which can be used to narrow or widen the scope of the view. This is a near identical reflection of the _Explore_ page.
 
 ![Activities Console Map View Labelled Diagram](./introduction-to-activities-assets/act-cnl-map.png)
 
@@ -84,6 +104,10 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 ### Timeline View
 {: .fs-9 }
 
+The _Timeline_ view is a one-stop shop for all of your Rosters and Reports - past, present, and future. Using the _Directory_, any Activity and date can be located and opened. Any _Upcoming_ Activities opened from the Timeline will be presented through the _Roster_ interface, while Activities from the _History_ list will be opened in the _Report_ view.
+
+Timeline also allows managers to edit past Activity Reports, in case details were entered incorrectly on the original submission or other amendments need to be made. The Report view on an Activity also shows the Roster that was published with that Activity for the given date. History has never been this easy to access.
+
 ![A labelled diagram of the Activities Console Timeline Directory side navigation component](./introduction-to-activities-assets/log.png)
 
 1. **Search Bar** -- Search for any activity by name.
@@ -94,6 +118,8 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 
 ## Rostering with Activities
 {: .fs-10 }
+
+Rosters have received a facelift. The same basic breakdown of volunteer pools remains, while the rostering is now done across the activity like a time table. Rosters must still be published for volunteers to be notified, and cancelling a Roster will now notify all volunteers immediately via email.
 
 ![A labelled diagram of the Activities Console Roster interface](./introduction-to-activities-assets/roster.png)
 
@@ -108,6 +134,8 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 
 ## Submitting Activity Reports
 {: .fs-10 }
+
+An Activity Report exists as the collection of Session Reports for the given activity and date.
 
 ![A labelled diagram of the Activities Console past Activity Report interface](./introduction-to-activities-assets/act-cnl-past-report.png)
 

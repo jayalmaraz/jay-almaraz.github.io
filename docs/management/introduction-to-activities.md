@@ -64,7 +64,7 @@ With Activities comes an updated set of terminology. These new names have been c
 ## Campfire Structure
 {: .fs-9 }
 
-It's important to understand the basic structure of Campfire to see how Activities fir into the system. As outlined above, we've made a few changes to terminology as well. The new names and pages will be referenced constantly throughout this guide and the Campfire application.
+It's important to understand the basic structure of Campfire to see how Activities fit into the system. As outlined above, we've made a few changes to terminology as well. The new names and pages will be referenced constantly throughout this guide and the Campfire application.
 
 ![Campfire entity structure breakdown](./introduction-to-activities-assets/org-structure.png)
 

@@ -65,7 +65,7 @@ permalink: /
       white-space: pre-line;
       color: #e9e9e9 !important;
     }
-    @media screen and (max-width: 800px) {
+    @media screen and (max-width: 720px) {
       #cfg-main {
         grid-template-columns: repeat(1, 360px);
         grid-gap: 8px;
@@ -91,7 +91,7 @@ permalink: /
         display: none;
       }
     }
-    @media screen and (max-width: 801px) {
+    @media screen and (max-width: 721px) {
       #cfg-main {
         grid-template-columns: repeat(2, 360px);
       }

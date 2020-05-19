@@ -137,7 +137,7 @@ permalink: /
           </span>
         </div>
       </a>
-      <a class="cfg-card">
+      <a href="https://guide.campfireapp.org/docs/managers/uploading-content-with-resources/" class="cfg-card">
         <div class="cfg-card-content">
           <h2>
             Uploading content with Resources
@@ -150,7 +150,7 @@ permalink: /
           </span>
         </div>
       </a>
-      <a class="cfg-card">
+      <a href="https://guide.campfireapp.org/docs/managers/introduction-to-activities/" class="cfg-card">
         <div class="cfg-card-content">
           <h2>
             Activities overview for managers

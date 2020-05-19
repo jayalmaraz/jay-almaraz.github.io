@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Creating an account and setting up your profile
+title: Creating an account
 nav_order: 2
 has_children: true
 permalink: /docs/sign-up

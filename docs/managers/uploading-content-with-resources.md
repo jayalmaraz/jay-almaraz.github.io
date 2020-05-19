@@ -14,13 +14,14 @@ nav_order: 2
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+
+{:toc}
 
 ---
 
-## Adding a New Resource
-
 {: .fs-10 }
+
+## Adding a New Resource
 
 ### Creating the resource
 
@@ -74,9 +75,9 @@ You can add as many files as you like, but don't go overboard with the file size
 
 Featured resources appear above others in the list, and are marked with a golden star. You can switch the featured option on/off a resource at any time by editing it.
 
-## Category and Resource Structure
-
 {: .fs-10 }
+
+## Category and Resource Structure
 
 Categories are folders for resources. The landing page will show up to 5 resources from each category, with featured resources being given priority over other recently created resources. You can click on the category name to open the category and see all resources. If a category contains more than 5 resources it will also show the `View all items` button below.
 
@@ -88,9 +89,9 @@ You can edit categories at any time if their name needs to be changed. Look for 
 
 A resource can only exist in one category at a time. To move a resource to a different category simply edit that resource and use the dropdown to pick the new category, then hit save.
 
-## Updating Resources
-
 {: .fs-10 }
+
+## Updating Resources
 
 Add or update content at any time by editing the resource. Too access the resource editor open the resource and click the `Edit` button at the top-right of the screen.
 
@@ -98,17 +99,17 @@ You can change the name, category, text, and add or remove attachments. If you m
 
 The resource editor is also where you can add or remove the resource from Featured Resources by using the aptly named switch.
 
-## Deleting Resources
-
 {: .fs-10 }
+
+## Deleting Resources
 
 There are two places you can go if you need to delete a resource:
 
 1. Open the resource directly and click `Edit`, then scroll to the bottom and choose `Delete this resource`
 2. Edit the resource's category and use the `Delete Resource` (red X) button to remove it, then hit `Save Category` to delete all resources that were removed - if you make a mistake here you can click `Cancel` to discard your changes.
 
-## Deleting a Category
-
 {: .fs-10 }
+
+## Deleting a Category
 
 If you need to delete a category the `Delete this Category` button can be found at the bottom of the page when editing a category. This process will result in all resources contained within the category being deleted too, so be sure to [move any resources](#Moving-resources-between-categories) beforehand if you don't want to lose them.

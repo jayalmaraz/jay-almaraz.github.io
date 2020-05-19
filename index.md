@@ -65,7 +65,7 @@ permalink: /
       white-space: pre-line;
       color: #e9e9e9 !important;
     }
-    @media (max-width: 799px) {
+    @media screen and (max-width: 799px) {
       #cfg-main {
         grid-template-columns: repeat(1, 360px);
         grid-gap: 8px;
@@ -91,7 +91,10 @@ permalink: /
         display: none;
       }
     }
-    @media (min-width: 800px) {
+    @media screen and (max-width: 800px) {
+      #cfg-main {
+        grid-template-columns: repeat(2, 360px);
+      }
       .cfg-card-content h2 {
         margin-top: -32px;
         font-size: 1.75em;
@@ -107,9 +110,6 @@ permalink: /
         box-shadow: 0 3px 7px -2px rgba(0, 0, 0, 0.2),
           0 3px 11px -1px rgba(0, 0, 0, 0.14),
           0 1px 24px -8px rgba(0, 0, 0, 0.12);
-      }
-      #cfg-main {
-        grid-template-columns: repeat(2, 360px);
       }
     }
     .cfg-hover-text {

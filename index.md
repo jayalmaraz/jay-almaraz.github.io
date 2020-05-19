@@ -120,7 +120,7 @@ permalink: /
   </style>
   <body>
     <div id="cfg-main">
-      <a href="https://guide.campfireapp.org/docs/sign-up" class="cfg-card">
+      <a href="/docs/sign-up" class="cfg-card">
         <div class="cfg-card-content">
           <h2>
             Signing up to Campfire
@@ -133,7 +133,7 @@ permalink: /
           </span>
         </div>
       </a>
-      <a href="https://guide.campfireapp.org/docs/managers/uploading-content-with-resources" class="cfg-card">
+      <a href="/docs/managers/uploading-content-with-resources" class="cfg-card">
         <div class="cfg-card-content">
           <h2>
             Uploading content with Resources
@@ -146,7 +146,20 @@ permalink: /
           </span>
         </div>
       </a>
-      <a href="https://guide.campfireapp.org/docs/managers/introduction-to-activities" class="cfg-card">
+      <a href="/docs/managers/introduction-to-activities" class="cfg-card">
+        <div class="cfg-card-content">
+          <h2>
+            Activities overview for managers
+          </h2>
+          <p>
+            A quick rundown of the Activities Console layout and features for new managers.
+          </p>
+          <span class="cfg-hover-text">
+            Read the guide →
+          </span>
+        </div>
+      </a>
+      <a href="/docs/managers/introduction-to-activities" class="cfg-card">
         <div class="cfg-card-content">
           <h2>
             Activities overview for managers

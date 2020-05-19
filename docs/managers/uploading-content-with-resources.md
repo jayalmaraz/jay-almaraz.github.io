@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Uploading your own content with Resources
-parent: Management
+parent: Managers
 nav_order: 2
 ---
 

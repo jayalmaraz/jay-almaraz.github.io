@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction to Activities
-parent: Management
+parent: Managers
 nav_order: 1
 ---
 

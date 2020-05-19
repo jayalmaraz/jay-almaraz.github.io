@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Applying to join an Activity
-parent: Volunteering
+parent: Volunteers
 nav_order: 1
 ---
 

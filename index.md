@@ -1,8 +1,8 @@
 ---
 layout: default
-title: How to use Campfire, Campfire best practices & tutorials, volunteer management tips | Product guide
+title: Home
 nav_order: 1
-description: "Welcome to Campfire Guide, home to walkthroughs and tutorials for the Campfire."
+description: "How to use Campfire, Campfire best practices & tutorials, volunteer management tips | Product guide."
 permalink: /
 ---
 

@@ -60,6 +60,11 @@ permalink: /
       flex-direction: column;
       justify-content: center;
     }
+    .cfg-card-content p,
+    h2 {
+      white-space: pre-line;
+      color: #e9e9e9 !important;
+    }
     @media (max-width: 799px) {
       #cfg-main {
         grid-template-columns: repeat(1, 360px);

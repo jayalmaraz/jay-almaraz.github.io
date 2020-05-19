@@ -120,17 +120,13 @@ permalink: /
   </style>
   <body>
     <div id="cfg-main">
-      <a
-        href="https://guide.campfireapp.org/docs/sign-up"
-        class="cfg-card"
-      >
+      <a href="https://guide.campfireapp.org/docs/sign-up" class="cfg-card">
         <div class="cfg-card-content">
           <h2>
             Signing up to Campfire
           </h2>
           <p>
-            Join your team on Campfire! Learn how to create an account and set
-            up your profile.
+            Join your team on Campfire! Learn how to create an account and set up your profile.
           </p>
           <span class="cfg-hover-text">
             Read the guide →

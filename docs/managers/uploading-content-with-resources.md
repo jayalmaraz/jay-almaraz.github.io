@@ -35,14 +35,14 @@ Creating a new resources is easy, and can be done from several places:
 With your new resource created, you'll be looking at the resource editor. Once you've chosen name, and a category for the resource to live in, you'll be ready to add some content. You can create a new category for the resource at this step too.
 
 ![Empty resource editor](./assets/resources/resource-editor-new-resource.png)
-{: .my-4 }
+{: .my-8 }
 
 ### Formatting and styling with the text editor
 
 The resource editor includes an easy to use rich text editor for you to put content in. This area can be left blank if you don't have anything to say, but it's always nice to leave a message or description. If you want to get serious about structure you can do that too!
 
 ![The basic Campfire rich text editor](./assets/resources/text-editor.png)
-{: .my-4 }
+{: .my-8 }
 
 Our text editor includes, from left to right, **Bold**, _Italic_, Underline, ~~Strikethrough~~, and `Monospace` formatting. You can apply and of these formats to normal text by either selecting the style and then typing, or by highlighting a section of text then choosing the style (or styles!) that you want. Hit the button again when you're done to switch the style off.
 
@@ -68,7 +68,7 @@ To add files to your resource look no further than the Attachments section. You 
 You can add as many files as you like, but don't go overboard with the file size! Resources support files of up to **10MB** each in size, so it's ideal for PDF documents and images. If you have any larger files such as videos or PowerPoints, then it's better to upload these elsewhere and add a link to them using the [text editor](#Formatting-and-styling-with-the-text-editor).
 
 ![Attachments examples with hover tooltip on an image preview](./assets/resources/attachments.png)
-{: .my-4 }
+{: .my-8 }
 
 ### Featured Resources
 

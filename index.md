@@ -50,7 +50,7 @@ permalink: /
       width: 100%;
       height: 420px;
       border-radius: 8px;
-      color: #e9e9e9;
+      color: #e9e9e9 !important;
       text-decoration: none;
     }
     .cfg-card-content {
@@ -75,7 +75,7 @@ permalink: /
       }
       .cfg-card-content h2 {
         font-size: 1.25em;
-        background-color: #242424;
+        background-color: #242424 !important;
         padding: 16px;
         border-radius: 8px;
       }
@@ -96,7 +96,7 @@ permalink: /
       }
       .cfg-card:hover {
         cursor: pointer;
-        color: white;
+        color: #ffffff !important;
         border: none;
         text-decoration: none;
         box-shadow: 0 3px 7px -2px rgba(0, 0, 0, 0.2),

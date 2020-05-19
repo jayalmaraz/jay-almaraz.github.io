@@ -5,13 +5,13 @@ parent: Managers
 nav_order: 2
 ---
 
-# Uploading your own content with Resources
-
 {: .no_toc }
 
-## Table of contents
+# Uploading your own content with Resources
 
 {: .no_toc .text-delta }
+
+## Table of contents
 
 {:toc}
 

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Management
+title: Managers
 nav_order: 4
 has_children: true
-permalink: /docs/management
+permalink: /docs/managers
 ---
 
 # Using Campfire to boost your operations

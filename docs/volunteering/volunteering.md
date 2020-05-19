@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Volunteering
+title: Volunteers
 nav_order: 3
 has_children: true
-permalink: /docs/volunteering
+permalink: /docs/volunteers
 ---
 
 # How to be the best Volunteer on Campfire

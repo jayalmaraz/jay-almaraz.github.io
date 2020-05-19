@@ -37,10 +37,6 @@ permalink: /
       background-image: url(./assets/images/sail3.png);
       background-position: bottom;
     }
-    .cfg-card:nth-child(4) {
-      background-image: url(./assets/images/sail4.png);
-      background-position: bottom;
-    }
     .cfg-card {
       box-sizing: border-box;
       background-size: cover;

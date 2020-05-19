@@ -5,10 +5,7 @@ parent: Managers
 nav_order: 2
 ---
 
-{: .no_toc }
-
 # Uploading your own content with Resources
-
 {: .no_toc }
 
 {: .no_toc .text-delta }

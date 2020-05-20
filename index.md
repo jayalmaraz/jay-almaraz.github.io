@@ -161,17 +161,4 @@ permalink: /
       </span>
     </div>
   </a>
-  <a href="/docs/managers/introduction-to-activities" class="cfg-card">
-    <div class="cfg-card-content">
-      <h2>
-        Activities overview for managers
-      </h2>
-      <p>
-        A quick rundown of the Activities Console layout and features for new managers.
-      </p>
-      <span class="cfg-hover-text">
-        Read the guide →
-      </span>
-    </div>
-  </a>
 </div>

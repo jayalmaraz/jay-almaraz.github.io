@@ -138,10 +138,10 @@ permalink: /
   <a href="/docs/managers/uploading-content-with-resources" class="cfg-card">
     <div class="cfg-card-content">
       <h2>
-        Uploading content with Resources
+        Upload content using Resources
       </h2>
       <p>
-        Add your own files and information to Campfire using Resources.
+        Add your own files and information to Campfire as Resources.
       </p>
       <span class="cfg-hover-text">
         Read the guide →

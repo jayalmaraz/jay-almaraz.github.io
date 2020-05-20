@@ -44,7 +44,7 @@ The resource editor includes an easy to use rich text editor for you to put cont
 ![The basic Campfire rich text editor](./assets/resources/text-editor.png)
 {: .my-8 }
 
-Our text editor includes, from left to right, **Bold**, _Italic_, Underline, ~~Strikethrough~~, and `Monospace` formatting. You can apply and of these formats to normal text by either selecting the style and then typing, or by highlighting a section of text then choosing the style (or styles!) that you want. Hit the button again when you're done to switch the style off.
+Our text editor includes, from left to right, **Bold**, _Italic_, Underline, ~~Strikethrough~~, and `Monospace` formatting. You can apply any of these formats to normal text by either selecting the style and then typing, or by highlighting a section of text then choosing the style (or styles!) that you want. Hit the button again when you're done to switch the style off.
 
 The Bulleted List and Numbered List are available too, simply choose the one that you want and use Enter/return on your keyboard to add new items. Once you're finished just hit the button again to end the list, or Enter/return again.
 
@@ -63,7 +63,7 @@ Editing links is easy, simply hover the link until the preview opens, then click
 To add files to your resource look no further than the Attachments section. You can add files one of two ways:
 
 1. Hit the `Attach a File from Your Computer` button and select one or more valid files.
-2. `Drag & Drop` and valid file or files from your computer into the attachments section.
+2. `Drag & Drop` any valid file or files from your computer into the attachments section.
 
 You can add as many files as you like, but don't go overboard with the file size! Resources support files of up to **10MB** each in size, so it's ideal for PDF documents and images. If you have any larger files such as videos or PowerPoints, then it's better to upload these elsewhere and add a link to them using the [text editor](#Formatting-and-styling-with-the-text-editor).
 
@@ -92,7 +92,7 @@ A resource can only exist in one category at a time. To move a resource to a dif
 
 ## Updating Resources
 
-Add or update content at any time by editing the resource. Too access the resource editor open the resource and click the `Edit` button at the top-right of the screen.
+Add or update content at any time by editing the resource. To access the resource editor open the resource and click the `Edit` button at the top-right of the screen.
 
 You can change the name, category, text, and add or remove attachments. If you make a mistake and want to throw away your changes scroll down and hit `Cancel`. Otherwise hit `Save Changes` once you're happy with your edited resource.
 

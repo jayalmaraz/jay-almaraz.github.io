@@ -6,7 +6,9 @@ description: "How to use Campfire, Campfire best practices & tutorials, voluntee
 permalink: /
 ---
 
-# Onboarding and getting started
+# Handy Campfire Guides
+
+Check out some of the popular guides here, search for something above, or use the menus to the left to browse all guides.
 
 <style>
   body {

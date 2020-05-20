@@ -58,7 +58,7 @@ Editing links is easy, simply hover the link until the preview opens, then click
 
 ![Hover an existing link to edit or test](./assets/resources/link-edit-hover.png)
 
-### Uploading files
+### Uploading files at attachments
 
 To add files to your resource look no further than the Attachments section. You can add files one of two ways:
 

@@ -127,7 +127,7 @@ Check out some of the popular guides here, search for something above, or use th
   <a href="/docs/sign-up" class="cfg-card">
     <div class="cfg-card-content">
       <h2>
-        Signing up to Campfire
+        Creating your Campfire Account
       </h2>
       <p>
         Join your team on Campfire! Learn how to create an account and set up your profile.

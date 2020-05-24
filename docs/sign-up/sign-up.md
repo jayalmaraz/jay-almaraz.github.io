@@ -1,20 +1,20 @@
 ---
 layout: default
-title: Getting Started
+title: Creating your Campfire Account
 nav_order: 2
 has_children: true
 permalink: /docs/sign-up
 ---
 
-# Getting Started with Campfire
+# Creating your Campfire Account
 {:.no_toc }
 
 ## Welcome to Campfire!
 {:.no_toc .fs-10 }
 
-<!-- Update to talk more about volunteer profile -->
-
 Campfire can do lots of things for you and your team. Before you join the rest of your team you'll first need to set up your profile.
+
+---
 
 ## Skip To
 {:.no_toc .text-delta }

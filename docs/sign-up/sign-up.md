@@ -1,61 +1,116 @@
 ---
 layout: default
-title: Creating an account
+title: Getting Started
 nav_order: 2
 has_children: true
 permalink: /docs/sign-up
 ---
 
-# Signing up to Campfire
+# Getting Started with Campfire
 
-Before you begin your volunteering journey on Campfire, you'll need to have a Campfire account. This article outlines the steps to help get you set up.
+{: .no_toc }
 
-## Creating your Campfire account
+## Welcome to Campfire!
 
-### Application form
+{: .no_toc .fs-10 }
 
-The first step is the application form. The application form contains a basic set of questions. The link to this form will be provided by your organisation.
+<!-- Update to talk more about volunteer profile -->
 
-![Campfire application form preview](./signin-up-assets/application-form.png)
+Campfire can do lots of things for you and your team. Before you join the rest of your team you'll first need to set up your profile.
 
-### Email confirmation
+## Skip To
 
-After you have submitted your application form, you'll receive an email from `postman@campfireapp.org` (our Campfire mail server)
+{: .no_toc .text-delta }
 
-This email will either be:
+1. TOC
+   {:toc}
 
-1. A confirmation email letting you know your application was received and is awaiting verification, or
-2. A welcome email giving your first time sign in details.
+---
 
-Once you receive the type `2.` email you're ready to sign in to Campfire and continue with your journey. If you received `1.` then you are just waiting for your organisation to see your application and approve it.
+## Sign up
 
-### Signing in
+{: .fs-10 }
 
-Use the password that was emailed to you to sign in. The first time you sign in you'll be required to set a password. This password should be secure, as it will be used to sign in to Campfire from then on.
+### Creating an account using the Sign Up form
 
-You can always change your password later. If you forget your password and can't sign in, follow the `Forgot Password?` link on the sign in page and enter your email; you'll receive instructions for resetting your password from there.
+To create an account you need to visit the Sign Up form. You'll normally be directed here through a link on a website, or via an email. The sign up form asks for three (3) simple things to create your Campfire account:
 
-## Required documents (if applicable)
+1. `Your name` (first and last),
+2. `Your email address` (used to sign in to Campfire and receive news), and
+3. `A password`
 
-Depending on your organisation’s requirements, you may need to complete some prerequisites to the volunteer contract. Each of these can be filled out individually. Once you're done you'll be able to access the volunteer contract.
+![Sign up form with name, email, and password fields filled out](./assets/sign-up/sign-up-form-fields.png)
 
-![Example of required documents](./signin-up-assets/contract-prereqs.png)
+Fill these details out and continue to the next screen.
 
-## Volunteer contract
+You might encounter a couple of screening questions. These are simple yes/no questions that give your organisation a little more information about yourself. Complete these to finalise your sign up.
 
-The volunteer contract is the final step in your application process. This is an opportunity to provide your important details to your organisation, including your home and mail address, and an emergency contact. Hit `Submit` when you're done.
+If everything looks good you'll be sent to the email verification step. You will have received an email from `postman@campfireapp.org` (be sure to check your junk) asking you to verify your email address. Follow the link provided in the email to complete this verification. Once this is done you can return to your original Campfire tab, where you'll be signed into your account.
 
-### Contract verification
+Sometimes your organisation needs to review your sign up application first. Once this has been approved you'll receive another email from `postman@campfireapp.org` with further instructions on on verifying your email address and finalising your sign up.
 
-After you submit your contract you'll enter one of two pathways:
+### Activating your account after receiving an invitation email
 
-1. Your organisation will receive and verify your contract. We'll send you an email from `postman@campfireapp.org` once your contract has been approved and your volunteer account is ready, or
-2. If automatic verification is configured and successful, your volunteer account will be activated immediately and you'll be able to continue with next steps.
+If you've been invited to Campfire by someone already in your team then your sign up process will be a little faster than what is described above.
 
-![Contract approved and pending verification message](./signin-up-assets/contract-submitted-message.png)
+Follow the link in the email to the sign up form, where you'll find your email address already filled in. Just enter your name and choose a password. If you want to use a different email address you can do that too.
 
-> If you received your 'contract approved' email but you're still seeing the above message, try manually refreshing your browser
+Once you've selected a password you'll be taken straight through to the next stage, setting up your profile!
 
-### Next steps
+## Setting up your profile
 
-With your volunteer contract completed you can start your onboarding checklist. See the [guide on applying to join a team](../volunteering/applying-to-join-a-team.md) for more info.
+{: .fs-10 }
+
+Your organisation likely has some tasks for you to complete while setting up your profile. You'll find these under `Your Tasks`. If this option doesn't show up then, Congratulations! 🎉 You can go straight through to the `Volunteer Profile Form` and submit your details there.
+
+### Completing 'Your Tasks'
+
+The tasks listed under the `Required Tasks` section will need to be completed before accessing your `Volunteer Profile Form`. Click into any task to view the requirements and find out what you need to complete it.
+
+Each of your tasks will normally involve answering some questions or providing some details about yourself. Some tasks will have `Attachments` for you to open or download. Some tasks may also ask you to upload your own attachment using an `UPLOAD RESOURCE` button.
+
+You'll normally find instructions at the top of each of your tasks. Read through the questions carefully, enter your responses, then hit `Submit` button at the of the page once you're done.
+
+If you need to change any of the responses to a completed task you can open it and click on `Submit New` to start over.
+
+#### Extra Tasks
+
+Anything listed in the `Extra Tasks` section may not be required to complete your initial profile, but might be good to include depending on your role in the team. Read through these carefully to see if any make sense to complete, given your situation.
+
+### Submitting your 'Volunteer Profile Form'
+
+The `Volunteer Profile Form` is an opportunity to provide important details to your organisation. This includes your home and mailing address, and an emergency contact. You'll also have the chance to share any health condition information that might be necessary to keep you and others safe.
+
+Once you've completed the form hit `Submit Volunteer Profile` at the bottom of the page to package everything up and send it off.
+
+Some teams will manually verify your volunteer profile, so you might need to wait for this to be done. We'll email you when your profile has been processed.
+
+## Next Steps
+
+As soon as your volunteer profile is completed you'll be signed in to your Campfire volunteer account. Welcome to Campfire!
+
+Check out the [guide on applying to join a team](../volunteering/applying-to-join-a-team.md) for some things that you can do next.
+
+---
+
+## FAQs
+
+### Why do I keep seeing a network error on the sign up screen?
+
+If you find yourself encountering a `Network error` on the Sign **Up** screen then there's a chance that your email address is already in use.
+
+![Network error on the sign up screen](./assets/sign-up/network-error.png)
+
+Head back to the Sign **In** screen (using the `Sign In` button in the menu at the top of the the page) and try using your email address and your Campfire password.
+
+![Network error on the sign up screen](./assets/sign-up/sign-up-menu-buttons.png)
+
+### What can I do if I've forgotten my password?
+
+If you don't remember your password hit the `Forgot password?` link on the sign in screen.
+
+![Password reset email sent after following forgot password instructions](./assets/sign-up/forgot-password-circled.png)
+
+Enter your email address and we'll have a password reset link sent to you. The email will come from `postman@campfireapp.org`. Be sure to check your spam/junk folders.
+
+![Password reset email sent after following forgot password instructions](./assets/sign-up/reset-password-done.png)

@@ -7,29 +7,25 @@ permalink: /docs/sign-up
 ---
 
 # Getting Started with Campfire
-
-{: .no_toc }
+{:.no_toc }
 
 ## Welcome to Campfire!
-
-{: .no_toc .fs-10 }
+{:.no_toc .fs-10 }
 
 <!-- Update to talk more about volunteer profile -->
 
 Campfire can do lots of things for you and your team. Before you join the rest of your team you'll first need to set up your profile.
 
 ## Skip To
-
-{: .no_toc .text-delta }
+{:.no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 ---
 
 ## Sign up
-
-{: .fs-10 }
+{:.fs-10 }
 
 ### Creating an account using the Sign Up form
 
@@ -58,8 +54,7 @@ Follow the link in the email to the sign up form, where you'll find your email a
 Once you've selected a password you'll be taken straight through to the next stage, setting up your profile!
 
 ## Setting up your profile
-
-{: .fs-10 }
+{:.fs-10 }
 
 Your organisation likely has some tasks for you to complete while setting up your profile. You'll find these under `Your Tasks`. If this option doesn't show up then, Congratulations! 🎉 You can go straight through to the `Volunteer Profile Form` and submit your details there.
 

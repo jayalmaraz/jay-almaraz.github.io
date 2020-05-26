@@ -5,49 +5,69 @@ parent: Volunteers
 nav_order: 1
 ---
 
-# Applying for a team
+# Applying for an Activity
 
-The first step to volunteering on Campfire is to find a team. Teams are groups of volunteers that are attached to a regular service. You can browse all of the services that your organisation runs by visiting the _All Locations_ page. In this article we'll walk you through the important steps in joining a team, and highlight the _All Locations_ page.
+The first step to volunteering on Campfire is to find an activity and join the team. Teams are groups of volunteers that are attached to an activity. You can browse all of the activities that your organisation runs by visiting the `Activities` page and selecting the `All Activities` tab. In this article we'll walk you through the important steps in joining a team, and highlight the features of the Activities page.
 
-## What you'll see first
+---
 
-Once your contract has been verified, you'll have access to your full volunteering account. The first thing you'll see is the _My Shifts_ page.
+## Skip To
 
-If this is your first time on Campfire, you'll also be greeted with an onboarding checklist `[1]`. You can open the onboarding checklist at any time, and click on the active step - which will be marked with a blue button `[2]` - to be taken to the right place.
+{:.no_toc .text-delta }
 
-_On this page:_
+1. TOC
+   {:toc}
 
-1. Onboarding checklist
-2. Active step
+---
 
-![Landing on the My Shifts page](./applying-to-join-a-team-assets/landing-and-checklist.png)
+## Where to go first
 
-Navigate to the _All Locations_ page, or click on the `Find a team [2]` step if you have the onboarding checklist.
+{:.fs-10 }
+
+Once your volunteer profile has been completed, you'll have access to your full volunteering account. The first page that you'll want to visit is the `Activities` page.
+
+<!-- If this is your first time on Campfire, you'll also be greeted with an onboarding checklist `[1]`. You can open the onboarding checklist at any time, and click on the active step - which will be marked with a blue button `[2]` - to be taken to the right place. -->
+
+![Landing on the All Activities page](./assets/applying-to-join-a-team/all-activities-landing-all-activities.png)
 
 If you're on a mobile device, the navigation menu can be opened using the menu button in the top-left corner of the screen.
 
-![Mobile navigation menu location](./applying-to-join-a-team-assets/mobile-menu-location.png)
+![Finding the navigation menu on mobile](./assets/applying-to-join-a-team/phone-nav.png)
 
-## Finding a team using All Locations
+## Finding an activity
 
-The _All Locations_ page provides a complete overview of the services within your organisation. Each of these locations will have a list of regular shifts (or once-off shifts if your org is running events).
+{:.fs-10 }
 
-Open a location by clicking a pin on the map `[1]` or by selecting it from the locations list `[2]`.
+Click on any activity on this page, or on a map marker, to open the activity info. From here you'll be able to apply for some of the upcoming dates in order to express your interest.
 
-Once you have a location selected you will see the details open underneath. From here you can apply to join any team by hitting the `Apply for team` button `[3]`.
+![Dialogs open when you select an activity from the list or the map](./assets/applying-to-join-a-team/all-activities-dialogs.png)
 
-_On this page:_
+When you apply for an activity for the first time you are simply expressing your interest in joining the team. You should chose teams from activities that are in a time and/or place that makes regular volunteering easy for you.
 
-1. Locations map
-2. Locations list
-3. Apply for team button
+Any activity that you have applied for will appear with the `Application Pending` status on this page.
 
-![The All Locations page](./applying-to-join-a-team-assets/all-locations.png)
+![An activity that you've applied to join will show an 'Application Pending' status label](./assets/applying-to-join-a-team/pending-activity.png)
 
-When you apply for a team you are simply expressing your interest in joining the team that runs that particular shift. You should chose teams from shifts that are in a time and place that makes regular volunteering easy for you.
+## My Activities page
 
-While you are waiting for a manager view your team application, you can find your pending enrollments back on your _My Shifts_ page.
+{:.fs-10 }
 
-![Waiting to be enrolled in a team](./applying-to-join-a-team-assets/waiting-for-enrolment.png)
+While you are waiting for a leader to review your team application, you can find your pending activities over in the `My Activities` tab.
 
-As soon as a manager enrolls you in a team we'll send you an email. After that you'll be able to kick off your rosters and apply to get out on an upcoming shift.
+Your pending activities will be listed on the right side of the page, while the main view will show the calendar with upcoming dates. You can click into any of the days on the calendar to see activities for that specific date (useful if you have lots of activities for a given week/month).
+
+![Your my activities page with an application pending](./assets/applying-to-join-a-team/my-activities-page-with-pending.png)
+
+There are a number of statuses that your activities might be in. You can view all of them by opening the `Legend`.
+
+To start with, you'll more than likely find one of three statuses on any new activity that you're in the process of joining:
+
+1. ⏳ `Application pending` **(Purple Ring)** - you've expressed an interest in joining this activity and are waiting to be added to the team
+2. ⏳ `Enrolled and available` **(Amber Circle)** - you've been added to the team and you're still available for this date but haven't been rostered
+3. 🎉 `Rostered` **(Green Circle)** - you're on the team and you've been rostered onto this date
+
+![pending, enrolled, and rostered statuses on an activity on the my activities page](./assets/applying-to-join-a-team/statuss.png)
+
+We'll email you as soon as any of these statuses change. You'll be notified when your application to join an activity is approved, and of any further rosters that you are included on.
+
+Be sure to visit the `My Activities` page regularly to keep your availability up to date.

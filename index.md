@@ -137,10 +137,23 @@ Check out some of the popular guides here, search for something above, or use th
       </span>
     </div>
   </a>
+  <a href="/docs/volunteers/applying-to-join-a-team/" class="cfg-card">
+    <div class="cfg-card-content">
+      <h2>
+        Applying to join an Activity
+      </h2>
+      <p>
+        Learn how to find an activity and join the team to start your volunteering journey.
+      </p>
+      <span class="cfg-hover-text">
+        Read the guide →
+      </span>
+    </div>
+  </a>
   <a href="/docs/managers/uploading-content-with-resources" class="cfg-card">
     <div class="cfg-card-content">
       <h2>
-        Upload content using Resources
+        Upload content using 'Resources'
       </h2>
       <p>
         Add your own files and information to Campfire as Resources.

@@ -12,16 +12,14 @@ The first step to volunteering on Campfire is to find an activity and join the t
 ---
 
 ## Skip To
-
-{:.no_toc .text-delta }
+{: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 ---
 
 ## Where to go first
-
 {:.fs-10 }
 
 Once your volunteer profile has been completed, you'll have access to your full volunteering account. The first page that you'll want to visit is the `Activities` page.
@@ -35,7 +33,6 @@ If you're on a mobile device, the navigation menu can be opened using the menu b
 ![Finding the navigation menu on mobile](./assets/applying-to-join-a-team/phone-nav.png)
 
 ## Finding an activity
-
 {:.fs-10 }
 
 Click on any activity on this page, or on a map marker, to open the activity info. From here you'll be able to apply for some of the upcoming dates in order to express your interest.
@@ -49,7 +46,6 @@ Any activity that you have applied for will appear with the `Application Pending
 ![An activity that you've applied to join will show an 'Application Pending' status label](./assets/applying-to-join-a-team/pending-activity.png)
 
 ## My Activities page
-
 {:.fs-10 }
 
 While you are waiting for a leader to review your team application, you can find your pending activities over in the `My Activities` tab.

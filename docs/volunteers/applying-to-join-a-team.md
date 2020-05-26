@@ -5,7 +5,7 @@ parent: Volunteers
 nav_order: 1
 ---
 
-# Applying for an Activity
+# Applying to join an Activity
 
 The first step to volunteering on Campfire is to find an activity and join the team. Teams are groups of volunteers that are attached to an activity. You can browse all of the activities that your organisation runs by visiting the `Activities` page and selecting the `All Activities` tab. In this article we'll walk you through the important steps in joining a team, and highlight the features of the Activities page.
 

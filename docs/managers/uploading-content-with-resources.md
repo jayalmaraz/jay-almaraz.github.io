@@ -60,7 +60,7 @@ To add files to your resource look no further than the Attachments section. You 
 1. Hit the `Attach a File from Your Computer` button and select one or more valid files.
 2. `Drag & Drop` any valid file or files from your computer into the attachments section.
 
-You can add as many files as you like, but don't go overboard with the file size! Resources support files of up to **10MB** each in size, so it's ideal for PDF documents and images. If you have any larger files such as videos or PowerPoints, then it's better to upload these elsewhere and add a link to them using the [text editor](#Formatting-and-styling-with-the-text-editor).
+You can add as many files as you like, but don't go overboard with the file size! Resources support files of up to **10MB** each in size, so it's ideal for PDF documents and images. If you have any larger files such as videos or PowerPoints, then it's better to upload these elsewhere and add a link to them using the [text editor](#formatting-and-styling-with-the-text-editor).
 
 ![Attachments examples with hover tooltip on an image preview](./assets/resources/attachments.png){: .my-8 }
 
@@ -101,4 +101,4 @@ There are two places you can go if you need to delete a resource:
 ## Deleting a Category
 {: .fs-10 }
 
-If you need to delete a category the `Delete this Category` button can be found at the bottom of the page when editing a category. This process will result in all resources contained within the category being deleted too, so be sure to [move any resources](#Moving-resources-between-categories) beforehand if you don't want to lose them.
+If you need to delete a category the `Delete this Category` button can be found at the bottom of the page when editing a category. This process will result in all resources contained within the category being deleted too, so be sure to [move any resources](#moving-resources-between-categories) beforehand if you don't want to lose them.

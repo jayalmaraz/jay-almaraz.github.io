@@ -89,6 +89,7 @@ Check out the [guide on applying to join a team](../volunteering/applying-to-joi
 ---
 
 ## FAQs
+{:.fs-10 }
 
 ### Why do I keep seeing a network error on the sign up screen?
 

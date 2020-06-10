@@ -34,5 +34,8 @@ Once you're happy with your new password hit `Update Password`. You're done! You
 ---
 
 ## Can't sign in?
+{: .fs-10 }
 
 If you're having trouble signing in or you think that you have forgotten your password, you can check the [FAQs section of the account creation guide](https://guide.campfireapp.org/docs/sign-up#faqs) for info, including how to reset your password.
+
+{: .my-8 }

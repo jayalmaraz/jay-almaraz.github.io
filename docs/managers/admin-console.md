@@ -9,6 +9,7 @@ nav_order: 3
 {: .no_toc }
 
 ## Build your Campfire
+{: .no_toc }
 {: .fs-10 }
 
 The Admin Console is the home all of the most important settings for your Campfire. Understanding these options and how they affect other parts of Campfire is important. This guide looks at each of the panels on the Admin Console to give an overview of the system, as well as showing how to use the various interfaces.

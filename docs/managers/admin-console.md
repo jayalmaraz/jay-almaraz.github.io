@@ -10,6 +10,8 @@ nav_order: 3
 
 The Admin Console is the home all of the most important settings for your Campfire. Understanding these options and how they affect other parts of Campfire is important. This guide looks at each of the panels on the Admin Console to give an overview of the system, as well as showing how to use the various interfaces.
 
+---
+
 ## Skip To
 {: .no_toc .text-delta }
 
@@ -19,6 +21,7 @@ The Admin Console is the home all of the most important settings for your Campfi
 ---
 
 ## Applicant Screening
+{: .fs-10 }
 
 Before new volunteers have their accounts created they go through sign up. If you want to filter volunteers at this stage you can do so using screening questions. If you want every new volunteer to require manual approval you can turn auto-applicant approval off entirely.
 
@@ -39,6 +42,7 @@ Screening questions can be added using the Admin Console. Each question can be a
 Auto-approve applications is normally kept on. With this setting on, applicants will receive their account straight away (so long as they pass all screening questions and verify their email address) and will be able to start setting up their volunteer profile.
 
 ## Operations
+{: .fs-10 }
 
 The Operations panel contains settings for cancellation and closure options. These are important pieces of config as the data that comes from cancelled rosters and closed activities will provide valuable insights whenever you're reviewing your operations history.
 
@@ -57,6 +61,7 @@ Missed activities are an indication of uncertainty. Ideally there will be no mis
 Closure reasons are used when an activity is being closed. Closing an activity is considered more severe, and often more permanent than suspension. Closed activities can be opened at any time if circumstances change.
 
 ## Admins
+{: .fs-10 }
 
 Administrators can manage other admin accounts through this panel. Your Campfire must always have at least one admin account, so we won't let you remove your last one!
 
@@ -71,6 +76,7 @@ Existing users can be upgraded to administrators using the `Add admin` button. E
 ![Admins panel in Admin Console](./assets/admin-console/admins.png)
 
 ## Incident Reporting
+{: .fs-10 }
 
 Having a good safety culture is crucial. Campfire aims to provide a platform for detailed incident reporting through configureable incident severities and categories. These settings are reflected on the Incident Report, and can be customised to fit your style of operations.
 
@@ -98,7 +104,7 @@ You can preview the configuration at any time by viewing the Incident Report.
 
 ![Diagram showing incident groups, categories, and details on the incident report alongside the Admin Console](./assets/admin-console/incident-categories-diagram.png)
 
-### Groups and Categories
+#### Groups and Categories
 
 At the root level (`Incident Categories`) groups and categories can be added. In _Altercation_ has been added as a group so that more categories can be added within, while _Injury_ has been added as a category so that details can be added immediately.
 
@@ -112,7 +118,7 @@ Inside of categories and groups the `edit` button (at the end of the breadcrumbs
 
 ![The edit button on the end of the incident categories breadcrumbs](./assets/admin-console/incident-edit-breadcrumb.png)
 
-### Details
+#### Details
 
 Click on any existing detail to edit the label. Details can be removed using the remove button on the right.
 

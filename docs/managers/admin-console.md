@@ -103,11 +103,11 @@ Severities can be re-ordered using the handle on the left, and removed using the
 
 Categorising incidents is critical to gaining insights into the risks that may emerge as your teams and operations grow. Campfire has a particular structure to incident categories which allow for many layers of sub-groupings before a final option is presented.
 
-On the incident report, groups and categories behave identically -- they are effectively folders which contain more layers. The difference between a group and a category is that a category can only contain `Details`. This means that a category will be the last layer that is created before details are finally added.
+On the incident report, categories and groups behave identically -- they are effectively folders which contain more layers. The difference between a category and a group is that a group can only contain `Details`. This means that a group will be the last layer that is created before details are finally added.
 
-- The root can contain groups or categories
-- Groups can contain groups or categories
-- Categories can contain only details
+- The root can contain categories or groups
+- Categories can contain other categories, or groups
+- Groups can contain only details
 
 You can preview the configuration at any time by viewing the Incident Report.
 
@@ -115,15 +115,15 @@ You can preview the configuration at any time by viewing the Incident Report.
 
 #### Groups and Categories
 
-At the root level (`Incident Categories`) groups and categories can be added. In _Altercation_ has been added as a group so that more categories can be added within, while _Injury_ has been added as a category so that details can be added immediately.
+At the root level (`Incident Categories`) categories and groups can be added. In _Altercation_ has been added as a categories so that more groups can be added within, while _Injury_ has been added as a group so that details can be added immediately.
 
 ![Incident Categories root level - the 'Add new' menu allows for a group or category to be added](./assets/admin-console/incident-categories-root.png)
 
-Details can be added to categories, but not to groups or the root level.
+Details can be added to groups, but not directly to categories or the root level.
 
 ![Incident Categories inside of a category - the 'Add new' menu allows for only a detail to be added](./assets/admin-console/incident-categories-detail.png)
 
-Inside of categories and groups the `edit` button (at the end of the breadcrumbs) can be used to edit the name of the category or group.
+Inside of categories and groups the `edit` button (at the end of the breadcrumbs) can be used to edit the name.
 
 ![The edit button on the end of the incident categories breadcrumbs](./assets/admin-console/incident-edit-breadcrumb.png)
 

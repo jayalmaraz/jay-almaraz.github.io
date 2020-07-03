@@ -84,7 +84,7 @@ Some teams will manually verify your volunteer profile, so you might need to wai
 
 As soon as your volunteer profile is completed you'll be signed in to your Campfire volunteer account. Welcome to Campfire!
 
-Check out the [guide on applying to join a team](../volunteering/applying-to-join-a-team.md) for some things that you can do next.
+Check out the [guide on applying to join a team](../volunteers/applying-to-join-a-team.md) for some things that you can do next.
 
 ---
 

@@ -59,6 +59,16 @@ Your aggregate status can be grouped at different levels of detail. This is usef
 * Your Programs - The totals broken down across all programs that you're a member of.
 * Your Activities - The totals broken down across all activities that you're a member of.
 
+> TIP!
+
+```
+Hide the side nav using the button in the top left to give yourself more space. The same button can be used again to open the side nav when you're done.
+```
+
+![Table option icons for the Detailed View](./assets/impact-dashboard/hide-side-nav.png)
+{: .my-8 }
+
+
 ### Using the Table Options
 
 ![Table option icons for the Detailed View](./assets/impact-dashboard/general-table-icons.png)

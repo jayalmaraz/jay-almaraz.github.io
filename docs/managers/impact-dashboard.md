@@ -59,16 +59,6 @@ Your aggregate status can be grouped at different levels of detail. This is usef
 * Your Programs - The totals broken down across all programs that you're a member of.
 * Your Activities - The totals broken down across all activities that you're a member of.
 
-> TIP!
-
-```
-Hide the side nav using the button in the top left to give yourself more space. The same button can be used again to open the side nav when you're done.
-```
-
-![Table option icons for the Detailed View](./assets/impact-dashboard/hide-side-nav.png)
-{: .my-8 }
-
-
 ### Using the Table Options
 
 ![Table option icons for the Detailed View](./assets/impact-dashboard/general-table-icons.png)
@@ -81,6 +71,8 @@ Save the table to your computer in CSV format.
 #### View columns
 
 Use this menu to show/hide columns to make it easier to find and compare the data that you want to see.
+
+---
 
 ## Detailed View
 {: .fs-10 }
@@ -98,6 +90,15 @@ The first thing that you'll need to select is a Report type. We recommend limiti
 After you've chosen a Report type you can filter the Programs and Activities that are loaded. Each of these menus includes a `Select all` and `Deselect all` option at the bottom of their lists. This is useful if you want to target a single Program or Activity; just hit `Deselect all` and then re-select the items you want to focus on.
 
 You can reset these settings any time using the `Reset View` button.
+
+```
+🏕 Campfire Tip
+
+Hide the side nav using the button in the top left to give yourself more space. The same button can be used again to open the side nav when you're done.
+```
+
+![Table option icons for the Detailed View](./assets/impact-dashboard/hide-side-nav.png)
+{: .mb-8 }
 
 ### Period
 

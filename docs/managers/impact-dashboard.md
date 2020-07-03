@@ -26,6 +26,9 @@ Your data is important. Having access to all of the aggregate and individual rep
 
 The Aggregate View shows you a summary of all of the numbers that have accumulated through your activity reports. The columns are broken into to major portions; the first group are the operational status, and the second group are your impact measurements.
 
+![Overview screenshot of the Aggregate View tab on the Impact Dashboard](./assets/impact-dashboard/general-view.png)
+{: .my-8 }
+
 ### Operational Stats
 
 The first 5 to 7 columns on the Aggregate View will always include the operational stats. These are the numbers that Campfire has collected as your activities have been running.
@@ -59,6 +62,7 @@ Your aggregate status can be grouped at different levels of detail. This is usef
 ### Using the Table Options
 
 ![Table option icons for the Detailed View](./assets/impact-dashboard/general-table-icons.png)
+{: .my-8 }
 
 #### Download CSV
 
@@ -72,6 +76,10 @@ Use this menu to show/hide columns to make it easier to find and compare the dat
 {: .fs-10 }
 
 To get into the nitty-gritty, we've given you the Detailed View. This part of the Impact Dashboard allows you to access all parts of individual activity reports, across your entire organisation, and through any range of dates.
+
+
+![Overview screenshot of the Detailed View tab on the Impact Dashboard](./assets/impact-dashboard/detailed-view.png)
+{: .my-8 }
 
 ### Choosing your view
 
@@ -96,7 +104,7 @@ You can adjust the time window for the data that you're viewing using the period
 ### Using the Table Options
 
 ![Table option icons for the Detailed View](./assets/impact-dashboard/detailed-table-icons.png)
-
+{: .my-8 }
 
 #### Search
 

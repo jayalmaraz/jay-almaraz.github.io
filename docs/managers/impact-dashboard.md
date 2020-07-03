@@ -91,6 +91,8 @@ After you've chosen a Report type you can filter the Programs and Activities tha
 
 You can reset these settings any time using the `Reset View` button.
 
+---
+
 ```
 🏕 Campfire Tip
 
@@ -99,6 +101,8 @@ Hide the side nav using the button in the top left to give yourself more space. 
 
 ![Table option icons for the Detailed View](./assets/impact-dashboard/hide-side-nav.png)
 {: .mb-8 }
+
+---
 
 ### Period
 

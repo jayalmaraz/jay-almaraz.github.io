@@ -26,7 +26,7 @@ There have been a couple of changes with the Incoming Volunteers page that will 
 
 First thing to note is that the Incoming Volunteers page has been absorbed by the Volunteer Database page which now becomes a "Volunteers" page. For the next few days, we will leave the tab for the old Incoming Volunteers page in the sidebar, but when you click onto it, a pop-up box will appear (pictured below) that will remind you of the change and redirect you to the new Volunteers page.
 
-![Incoming volunteers redirect dialog](./assets/incoming-volunteers/redirect-dialog.png "Campfire onboard flow diagram"){: .my-8 }
+![Incoming volunteers redirect dialog](./assets/incoming-volunteers/redirect-dialog.png){: .my-8 }
 
 ## Filters
 {: .fs-10 }
@@ -46,7 +46,7 @@ A couple of new features to note here will be your ability to filter down your a
 
 From here you can click on any listed applicant volunteer to gauge what tasks they have or have not submitted. If some appear with the red Pending Review box then this is where an action from a manager is required to allow their progression in their volunteer profile set up/completion.
 
-![Incoming volunteers overview, with filters and multiple volunteers shown](./assets/incoming-volunteers/incoming-volunteers-overview.png "Campfire onboard flow diagram"){: .my-8 }
+![Incoming volunteers overview, with filters and multiple volunteers shown](./assets/incoming-volunteers/incoming-volunteers-overview.png){: .my-8 }
 
 
 ### Filter: Show All/Show Pending Review

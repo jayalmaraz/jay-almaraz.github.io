@@ -26,7 +26,7 @@ We want every new volunteer to feel loved, but boxes need to be ticked before a 
 
 To get the most out of Campfire, and give your volunteers the best experience, you'll want to have a solid understanding of our onboarding framework.
 
-![Campfire onboard flow diagram](./assets/configuring-your-flow/onboarding-flow.png "Campfire onboard flow diagram"){: .my-8 }
+![Campfire onboard flow diagram](./assets/configuring-your-flow/onboarding-flow.png){: .my-8 }
 
 Campfire's onboarding flow is simple from the volunteer's perspective. There are a few key points in the process that will determine where your manual check-ins, if any, will exist. We have marked these points `1`, `2`, and `3` in the blue circles on the diagram -- let's dig in.
 
@@ -58,7 +58,7 @@ A perfect use for this checkpoint is as an expression of interest form. If you n
 
 With an account created and an initial volunteer profile approved, your applicant is well on their way to having a complete volunteer profile. The volunteer will be able to finish their profile once all required tasks have been submitted and approved. Checkpoint `3` can be activated by the configuring some or all of your required tasks to require `Manual Review`.
 
-![Set up your profile incoming volunteer view with completed and incomplete tasks](./assets/configuring-your-flow/lets-get-your-profile-setup.png "Campfire onboard flow diagram"){: .my-8 }
+![Set up your profile incoming volunteer view with completed and incomplete tasks](./assets/configuring-your-flow/lets-get-your-profile-setup.png){: .my-8 }
 
 It only takes one task with the manual review switch on to activate checkpoint `3`. You can turn it on for all tasks if that makes sense in your setup.
 

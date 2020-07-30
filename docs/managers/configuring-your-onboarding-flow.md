@@ -6,14 +6,27 @@ nav_order: 6
 ---
 
 # Configuring your onboarding flow using Volunteer Profile & Tasks
+{: .no_toc }
+{: .fs-10 }
 
 We want every new volunteer to feel loved, but boxes need to be ticked before a new legend is ready to join your mission. Campfire gives you a platform to provide your new applicants and volunteers with an effortless onboarding experience that is smooth, simple, and guided, while demanding no ongoing effort or repetitive process from you or your team.
 
+---
+
+## Skip To
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 ## Campfire's onboarding flow
+{: .fs-10 }
 
 To get the most out of Campfire, and give your volunteers the best experience, you'll want to have a solid understanding of our onboarding framework.
 
-![Campfire onboard flow diagram](assets/configuring-your-flow/onboarding-flow.png "Campfire onboard flow diagram")
+![Campfire onboard flow diagram](./assets/configuring-your-flow/onboarding-flow.png "Campfire onboard flow diagram"){: .my-8 }
 
 Campfire's onboarding flow is simple from the volunteer's perspective. There are a few key points in the process that will determine where your manual check-ins, if any, will exist. We have marked these points `1`, `2`, and `3` in the blue circles on the diagram -- let's dig in.
 
@@ -45,6 +58,8 @@ A perfect use for this checkpoint is as an expression of interest form. If you n
 
 With an account created and an initial volunteer profile approved, your applicant is well on their way to having a complete volunteer profile. The volunteer will be able to finish their profile once all required tasks have been submitted and approved. Checkpoint `3` can be activated by the configuring some or all of your required tasks to require `Manual Review`.
 
+![Set up your profile incoming volunteer view with completed and incomplete tasks](./assets/configuring-your-flow/lets-get-your-profile-setup.png "Campfire onboard flow diagram"){: .my-8 }
+
 It only takes one task with the manual review switch on to activate checkpoint `3`. You can turn it on for all tasks if that makes sense in your setup.
 
 Keep in mind that once any required tasks are manually reviewed, the volunteer profile can be automatically completed if no other manual review tasks remain. If you need to be extremely cautious about manually reviewing volunteers then it's important that you leave at least one task un-approved until the vollie submits everything. Alternatively switching every task to `Manual Review` will ensure that the an incoming volunteer can never have their profile approved automatically.
@@ -52,6 +67,7 @@ Keep in mind that once any required tasks are manually reviewed, the volunteer p
 Let's learn more about how to create tasks so that you can engage with and collect info from your applicants without breaking a sweat.
 
 ## Creating a task
+{: .fs-10 }
 
 The `Volunteer Profile` panel in the Admin Console is home to onboarding tasks. As an applicant completes these tasks they are tied to their Volunteer Profile, and there they will remain as the volunteer continues their journey beyond onboarding.
 
@@ -94,7 +110,13 @@ Instructions give you all of the functionality of our rich text editor to be use
 
 If you need to add links to external websites or shared files, then Instructions has got you covered on that too. Find out more [adding links with the rich editor](https://guide.campfireapp.org/docs/managers/uploading-content-with-resources/#adding-links-using-the-text-editor) from our other guide.
 
-### Adding fields
+## Deleting Tasks and Fields
+
+Campfire does not currently support moving fields between tasks, or recovering tasks and fields once they're deleted. The delete task and delete field functionality is perfect for experimentation when creating and designing new tasks.
+
+Please be aware that deleting a task or field that has been used by your organisation will result in that information becoming inaccessible. We strongly recommend against removing tasks and fields that are pre-existing and have already been used by volunteers.
+
+<!-- ### Adding fields -->
 
 <!-- Talk briefly about each field type
 Optional vs. required fields (note about data integrity)
@@ -102,10 +124,10 @@ Recommendations on multi-select vs. checklist vs. dropdown
 Aside about attachments
 Examples for `If yes then` style questions -->
 
-## What the volunteer sees
+<!-- ## What the volunteer sees -->
 
 <!-- Side by side comparison of required tasks cakes -->
 
-## Keeping track of incoming volunteers
+<!-- ## Keeping track of incoming volunteers -->
 
 <!-- Link to a new incoming volunteers page -->

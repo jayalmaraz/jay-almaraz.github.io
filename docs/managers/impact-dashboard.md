@@ -6,31 +6,28 @@ nav_order: 4
 ---
 
 # The Impact Dashboard
-
 {: .no_toc }
 {: .fs-10 }
+
 
 Your data is important. Having access to all of the aggregate and individual reports across all of your teams can provide valuable insights, and is critical for measuring and reporting your impact.
 
 ---
 
 ## Skip To
-
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 ---
 
 ## Aggregate View
-
 {: .fs-10 }
 
 The Aggregate View shows you a summary of all of the numbers that have accumulated through your activity reports. The columns are broken into to major portions; the first group are the operational status, and the second group are your impact measurements.
 
-![Overview screenshot of the Aggregate View tab on the Impact Dashboard](./assets/impact-dashboard/general-view.png)
-{: .my-8 }
+![Overview screenshot of the Aggregate View tab on the Impact Dashboard](./assets/impact-dashboard/general-view.png){: .my-8 }
 
 ### Operational Stats
 
@@ -64,8 +61,7 @@ Your aggregate status can be grouped at different levels of detail. This is usef
 
 ### Using the Table Options
 
-![Table option icons for the Detailed View](./assets/impact-dashboard/general-table-icons.png)
-{: .my-8 }
+![Table option icons for the Detailed View](./assets/impact-dashboard/general-table-icons.png){: .my-8 }
 
 #### Download CSV
 
@@ -78,13 +74,11 @@ Use this menu to show/hide columns to make it easier to find and compare the dat
 ---
 
 ## Detailed View
-
 {: .fs-10 }
 
 To get into the nitty-gritty, we've given you the Detailed View. This part of the Impact Dashboard allows you to access all parts of individual activity reports, across your entire organisation, and through any range of dates.
 
-![Overview screenshot of the Detailed View tab on the Impact Dashboard](./assets/impact-dashboard/detailed-view.png)
-{: .my-8 }
+![Overview screenshot of the Detailed View tab on the Impact Dashboard](./assets/impact-dashboard/detailed-view.png){: .my-8 }
 
 ### Choosing your view
 
@@ -102,8 +96,7 @@ You can reset these settings any time using the `Reset View` button.
 Hide the side nav using the button in the top left to give yourself more space. The same button can be used again to open the side nav when you're done.
 ```
 
-![Table option icons for the Detailed View](./assets/impact-dashboard/hide-side-nav.png)
-{: .mb-8 }
+![Table option icons for the Detailed View](./assets/impact-dashboard/hide-side-nav.png){: .mb-8 }
 
 ---
 
@@ -121,8 +114,7 @@ You can adjust the time window for the data that you're viewing using the period
 
 ### Using the Table Options
 
-![Table option icons for the Detailed View](./assets/impact-dashboard/detailed-table-icons.png)
-{: .my-8 }
+![Table option icons for the Detailed View](./assets/impact-dashboard/detailed-table-icons.png){: .my-8 }
 
 #### Search
 

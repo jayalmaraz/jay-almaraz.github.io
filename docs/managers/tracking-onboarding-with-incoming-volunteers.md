@@ -6,10 +6,30 @@ nav_order: 3
 ---
 
 # Tracking Onboarding using Incoming Volunteers
+{: .no_toc }
+{: .fs-10 }
 
-There have been a couple of changes with the Incoming Volunteers page that will assist you with tracking the progression of your applicant volunteers. First thing to note is that the Incoming Volunteers page has been absorbed by the Volunteer Database page which now becomes a "Volunteers" page. For the next few days, we will leave the tab for the old Incoming Volunteers page in the sidebar, but when you click onto it, a pop-up box will appear (pictured below) that will remind you of the change and redirect you to the new Volunteers page.
+There have been a couple of changes with the Incoming Volunteers page that will assist you with tracking the progression of your applicant volunteers.
+
+---
+
+## Skip To
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## New Location for Incoming Volunteers
+{: .fs-10 }
+
+First thing to note is that the Incoming Volunteers page has been absorbed by the Volunteer Database page which now becomes a "Volunteers" page. For the next few days, we will leave the tab for the old Incoming Volunteers page in the sidebar, but when you click onto it, a pop-up box will appear (pictured below) that will remind you of the change and redirect you to the new Volunteers page.
+
+![Incoming volunteers redirect dialog](./assets/incoming-volunteers/redirect-dialog.png "Campfire onboard flow diagram"){: .my-8 }
 
 ## Filters
+{: .fs-10 }
 
 A couple of new features to note here will be your ability to filter down your applicants to their applicant states.
 
@@ -26,6 +46,9 @@ A couple of new features to note here will be your ability to filter down your a
 
 From here you can click on any listed applicant volunteer to gauge what tasks they have or have not submitted. If some appear with the red Pending Review box then this is where an action from a manager is required to allow their progression in their volunteer profile set up/completion.
 
+![Incoming volunteers overview, with filters and multiple volunteers shown](./assets/incoming-volunteers/incoming-volunteers-overview.png "Campfire onboard flow diagram"){: .my-8 }
+
+
 ### Filter: Show All/Show Pending Review
 
 Show All is how you can see all of the volunteers in your list, depending on your other filter selections.
@@ -37,6 +60,7 @@ Sort by Recent Activity is how you can filter your volunteer applicants dependin
 Sort by Progress is where you can filter you volunteer applicants in the order from someone who has completed (or almost complete) each task in the Volunteer Profile all the way down to someone who has submitted their answers to the screening questions.
 
 ## Incoming Volunteer States
+{: .fs-10 }
 
 ### Invitee
 

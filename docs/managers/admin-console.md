@@ -2,13 +2,15 @@
 layout: default
 title: Using the Admin Console
 parent: Managers
-nav_order: 4
+nav_order: 5
 ---
 
 # Using the Admin Console
+
 {: .no_toc }
 
 ## Build your Campfire
+
 {: .no_toc }
 {: .fs-10 }
 
@@ -17,14 +19,16 @@ The Admin Console is the home all of the most important settings for your Campfi
 ---
 
 ## Skip To
+
 {: .no_toc .text-delta }
 
 1. TOC
-{:toc}
+   {:toc}
 
 ---
 
 ## Applicant Screening
+
 {: .fs-10 }
 
 Before new volunteers have their accounts created they go through sign up. If you want to filter volunteers at this stage you can do so using screening questions. If you want every new volunteer to require manual approval you can turn auto-applicant approval off entirely.
@@ -46,11 +50,13 @@ Screening questions can be added using the Admin Console. Each question can be a
 Auto-approve applications is normally kept on. With this setting on, applicants will receive their account straight away (so long as they pass all screening questions and verify their email address) and will be able to start setting up their volunteer profile.
 
 ## Volunteer Profile (beta)
+
 {: .fs-10 }
 
 > The volunteer profile page is a reflection of what your applicants will see after their account is created. This is the volunteer profile setup stage of onboarding. We are planning upgrades to this system which will allow full control and setup of this interface - stay tuned!
 
 ## Operations
+
 {: .fs-10 }
 
 The Operations panel contains settings for cancellation and closure options. These are important pieces of config as the data that comes from cancelled rosters and closed activities will provide valuable insights whenever you're reviewing your operations history.
@@ -70,6 +76,7 @@ Missed activities are an indication of uncertainty. Ideally there will be no mis
 Closure reasons are used when an activity is being closed. Closing an activity is considered more severe, and often more permanent than suspension. Closed activities can be opened at any time if circumstances change.
 
 ## Admins
+
 {: .fs-10 }
 
 Administrators can manage other admin accounts through this panel. Your Campfire must always have at least one admin account, so we won't let you remove your last one!
@@ -85,6 +92,7 @@ Existing users can be upgraded to administrators using the `Add admin` button. E
 ![Admins panel in Admin Console](./assets/admin-console/admins.png)
 
 ## Incident Reporting
+
 {: .fs-10 }
 
 Having a good safety culture is crucial. Campfire aims to provide a platform for detailed incident reporting through configureable incident severities and categories. These settings are reflected on the Incident Report, and can be customised to fit your style of operations.

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Configuring your Onboarding Flow
+parent: Managers
+nav_order: 6
+---
+
 # Configuring your onboarding flow using Volunteer Profile & Tasks
 
 We want every new volunteer to feel loved, but boxes need to be ticked before a new legend is ready to join your mission. Campfire gives you a platform to provide your new applicants and volunteers with an effortless onboarding experience that is smooth, simple, and guided, while demanding no ongoing effort or repetitive process from you or your team.

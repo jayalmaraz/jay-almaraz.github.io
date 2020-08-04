@@ -58,6 +58,14 @@ Once you've selected a password you'll be taken straight through to the next sta
 
 Your organisation likely has some tasks for you to complete while setting up your profile. You'll find these under `Your Tasks`. If this option doesn't show up then, Congratulations! 🎉 You can go straight through to the `Volunteer Profile Form` and submit your details there.
 
+### Submitting your 'Volunteer Profile Form'
+
+The `Volunteer Profile Form` is an opportunity to provide important details to your organisation. This includes your home and mailing address, and an emergency contact. You'll also have the chance to share any health condition information that might be necessary to keep you and others safe.
+
+Once you've completed the form hit `Submit Volunteer Profile` at the bottom of the page to package everything up and send it off.
+
+Some teams will manually verify your volunteer profile, so you might need to wait for this to be done. We'll email you when your profile has been processed.
+
 ### Completing 'Your Tasks'
 
 The tasks listed under the `Required Tasks` section will need to be completed before accessing your `Volunteer Profile Form`. Click into any task to view the requirements and find out what you need to complete it.
@@ -72,13 +80,6 @@ If you need to change any of the responses to a completed task you can open it a
 
 Anything listed in the `Extra Tasks` section may not be required to complete your initial profile, but might be good to include depending on your role in the team. Read through these carefully to see if any make sense to complete, given your situation.
 
-### Submitting your 'Volunteer Profile Form'
-
-The `Volunteer Profile Form` is an opportunity to provide important details to your organisation. This includes your home and mailing address, and an emergency contact. You'll also have the chance to share any health condition information that might be necessary to keep you and others safe.
-
-Once you've completed the form hit `Submit Volunteer Profile` at the bottom of the page to package everything up and send it off.
-
-Some teams will manually verify your volunteer profile, so you might need to wait for this to be done. We'll email you when your profile has been processed.
 
 ## Next Steps
 

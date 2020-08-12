@@ -24,7 +24,7 @@ The Admin Console is the home all of the most important settings for your Campfi
 
 ---
 
-## Applicant Screening
+## Onboarding
 {: .fs-10 }
 
 Before new volunteers have their accounts created they go through sign up. If you want to filter volunteers at this stage you can do so using screening questions. If you want every new volunteer to require manual approval you can turn auto-applicant approval off entirely.
@@ -45,10 +45,12 @@ Screening questions can be added using the Admin Console. Each question can be a
 
 Auto-approve applications is normally kept on. With this setting on, applicants will receive their account straight away (so long as they pass all screening questions and verify their email address) and will be able to start setting up their volunteer profile.
 
-## Volunteer Profile (beta)
+## Volunteer Profile
 {: .fs-10 }
 
-> The volunteer profile page is a reflection of what your applicants will see after their account is created. This is the volunteer profile setup stage of onboarding. We are planning upgrades to this system which will allow full control and setup of this interface - stay tuned!
+Volunteer profile is where tasks live. Tasks are essential for designing an onboarding experience that suits your needs and asks your volunteers for important info.
+
+Read on about tasks and onboarding flow in the [Volunteer Profile and Onboarding Flow guide](./configuring-your-onboarding-flow.md).
 
 ## Operations
 {: .fs-10 }

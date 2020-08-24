@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction to Activities
+title: Activities Console
 parent: Managers
 nav_order: 1
 ---
@@ -24,42 +24,6 @@ Activities are our way of connecting volunteers with amazing opportunities. An A
 We have a vision for volunteering that is inclusive of, but also extends far beyond, the regular week-by-week service model that our previous system (Shifts) were bias towards. You have a dedicated, passionate, and diverse pool of volunteers who are all driven by a common desire to do good, and to be a part of something bigger than themselves. With Activities, we are building an ecosystem wherein your vollies can feel more engaged and be even closer to new volunteering opportunities as they arise.
 
 In this article we'll be introducing the fundamentals of Activities, and all of their supporting systems. Let's find out how Activities fit into your operations.
-
-## Changes to Terminology and Pages
-{: .fs-10 }
-
-With Activities comes an updated set of terminology. These new names have been chosen to make the systems less tied to shifts, services, and cities. This allows us to continue to build powerful features into Activities without being inconsistent with our choice of words.
-
-### Words that have changed
-{: .no_toc }
-
-| Old Word        | New Word        |
-| --------------- | --------------- |
-| Shift           | Activity        |
-| Shift Report    | Activity Report |
-| City            | Program         |
-| Service Manager | Program Manager |
-| Team Leader     | Activity Leader |
-
-### Pages that have changed
-{: .no_toc }
-
-| Old Page         | New Page         |
-| ---------------- | ---------------- |
-| All Locations    | Explore          |
-| My Shifts        | My Activities    |
-| Shift Report     | Activity Report  |
-| Service Managers | Program Managers |
-
-### Pages that have been absorbed by Activities Console
-{: .no_toc }
-
-| Pre-Activities Console |
-| ---------------------- |
-| Completed Shifts       |
-| Roster                 |
-| Team Builder           |
-| Shift Management       |
 
 ## Campfire Structure
 {: .fs-9 }

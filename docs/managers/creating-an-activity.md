@@ -6,26 +6,22 @@ nav_order: 2
 ---
 
 # Creating activities
-
 {: .no_toc }
 {: .fs-10 }
-
-
 
 ---
 
 ## Skip To
-
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 ---
 
 ## Basics
-
 {: .fs-10 }
+
 
 * **Name**: Give your activity a unique, memorable name. The name is used to identify the activity across most interfaces, including the _All Activities_ screen, the _Activity Report_, and the _Impact Dashboards_.
 * **Program**: Every activity needs to belong to a program. Programs are used to group activities and volunteers together. [Read more about programs and Campfire's structure](https://guide.campfireapp.org/docs/managers/introduction-to-activities/#campfire-structure)

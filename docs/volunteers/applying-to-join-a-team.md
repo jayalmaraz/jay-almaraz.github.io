@@ -36,13 +36,15 @@ If you're on a mobile device, the navigation menu can be opened using the menu b
 ## Finding an activity
 {:.fs-10 }
 
-Click on any activity on this page, or on a map marker, to open the activity info. From here you'll be able to apply for some of the upcoming dates in order to express your interest.
+Click on any activity on this page, or on a map marker, to open the activity info. From here you'll be able to apply to join the activity.
 
-![Dialogs open when you select an activity from the list or the map](./assets/applying-to-join-a-team/all-activities-dialogs.png)
+![Some activities require you to apply and then wait to be enrolled](./assets/applying-to-join-a-team/apply-for-activity.png)
 
-When you apply for an activity for the first time you are simply expressing your interest in joining the team. You should chose teams from activities that are in a time and/or place that makes regular volunteering easy for you.
+Some activities don't require manual approval, and can be joined immediately.
 
-Any activity that you have applied for will appear with the `Application Pending` status on this page.
+![You can join certain activities instantly](./assets/applying-to-join-a-team/join-now.png)
+
+You should chose teams from activities that are in a time and/or place that makes regular volunteering easy for you. If you are waiting for approval then the `Application Pending` status will appear on the activity.
 
 ![An activity that you've applied to join will show an 'Application Pending' status label](./assets/applying-to-join-a-team/pending-activity.png)
 
@@ -57,11 +59,11 @@ Your pending activities will be listed on the right side of the page, while the 
 
 There are a number of statuses that your activities might be in. You can view all of them by opening the `Legend`.
 
-To start with, you'll more than likely find one of three statuses on any new activity that you're in the process of joining:
+To start with, you'll more than likely find one of two statuses on any new activity that you're in the process of joining:
 
-1. ⏳ `Application pending` **(Purple Ring)** - you've expressed an interest in joining this activity and are waiting to be added to the team
-2. ⏳ `Enrolled and available` **(Amber Circle)** - you've been added to the team and you're still available for this date but haven't been rostered
-3. 🎉 `Rostered` **(Green Circle)** - you're on the team and you've been rostered onto this date
+1. ❓ `No indication` **(Amber Ring)** - you haven't responded to the availability yet, and may be rostered if you the activity needs you. You should indicate your availability for as many dates as you can as soon as possible to avoid issues with scheduling.
+1. ⏳ `Enrolled and available` **(Amber Circle)** - you've been added to the team and you've selected _Yes_ for this date, but haven't been rostered yet.
+1. 🎉 `Rostered` **(Green Circle)** - you're on the team and you've been rostered onto this date.
 
 ![pending, enrolled, and rostered statuses on an activity on the my activities page](./assets/applying-to-join-a-team/statuss.png)
 

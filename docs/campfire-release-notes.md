@@ -12,11 +12,11 @@ permalink: /docs/release-notes
 
 ### `Campfire 1.1.0` - 25 August
 
-- **Open Activities**: It's time for a new type of activity. Open activities allow any volunteer to join the team without needing to wait for approval. In a single click, a new volunteer will be able to put themselves into an activity team and start settings their availabilities with zero delay. [Read about using the new open activity setting](https://guide.campfireapp.org/docs/managers/creating-an-activity/)
+- **Open Activities**: Open activities allow any volunteer to join the team without needing to wait for approval. In a single click, a new volunteer will be able to put themselves into an activity team and start settings their availabilities with zero delay. You can edit any of your existing activities to switch them to _Open_ too. [Read about using the new open activity setting](https://guide.campfireapp.org/docs/managers/creating-an-activity/)
 
-- **Improved experience when joining activities**: We are trying out a new and improved interface for volunteers to use when joining activities. The aim with this is to present a simpler set of messages for vollies who are applying to join a public or private team at any time. You can see these interfaces in action in our [new volunteer tutorial](XXXXXXXXXX).
+- **Improved experience when joining activities**: We are trying out a new and improved interface for volunteers to use when joining activities. The aim with this is to present a simpler set of messages for vollies who are applying to join a public or private team at any time. You can see these interfaces in action in our [new volunteer tutorial](https://guide.campfireapp.org/docs/volunteers/applying-to-join-a-team/#finding-an-activity).
 
-- **Bulletins**: Need to share important information to all of your volunteers? Bulletins allow admins to [post messages and notify all volunteers](XXXXXXXXXX) via email. Vollies can go back and view any bulletin at any time.
+- **Bulletins**: Need to share important information to all of your volunteers? Bulletins allow admins to post messages and notify all volunteers via email. Vollies can go back and view any bulletin at any time.
 
 - **My Elements layout update**: We've restyled the My Elements page to give it more room to breath, with bulletins now added into the mix.
 

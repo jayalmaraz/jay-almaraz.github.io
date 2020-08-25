@@ -6,25 +6,21 @@ nav_order: 6
 ---
 
 # Campfire's onboarding flow
-
-{: .no_toc }
-{: .fs-10 }
+{: .no_toc }{: .fs-10 }
 
 We want every new volunteer to feel loved, but boxes need to be ticked before a new legend is ready to join your mission. Campfire gives you a platform to provide your new applicants and volunteers with an effortless onboarding experience that is smooth, simple, and guided, while demanding no ongoing effort or repetitive process from you or your team.
 
 ---
 
 ## Skip To
-
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 ---
 
 ## One step at a time
-
 {: .fs-10 }
 
 To get the most out of Campfire, and give your volunteers the best experience, you'll want to have an understanding of our onboarding flow. We start with a new applicant signing up, move through an email verification, and then enter the 'Set up your profile' stage. The volunteer is onboarded once they have met requirements and have a completed and approved volunteer profile.
@@ -72,7 +68,6 @@ Keep in mind that once any required tasks are manually reviewed, the volunteer p
 Let's learn more about how to create tasks so that you can engage with and collect info from your applicants without breaking a sweat.
 
 ## Creating a task
-
 {: .fs-10 }
 
 The `Volunteer Profile` panel in the Admin Console is home to onboarding tasks. As an applicant completes these tasks they are tied to their Volunteer Profile, and there they will remain as the volunteer continues their journey beyond onboarding.

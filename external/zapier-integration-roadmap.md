@@ -30,10 +30,9 @@ This document covers the design and development of the Zapier App and integratio
 
 ## Our Philosophy on Integration
 
-- We focus on Campfire
-- We build Campfire to be the point of truth for your volunteer ops and impact
-- We want you to do more
-- We want to enable you to use tools that allow you to do more
+We want to make Campfire the best tool possible, and we want to stay in our lane. Campfire is built to be the single point-of-truth for your volunteer operations and impact data, but you're already using other tools to solve other problems. So how can we truly help you do more with what you've got?
+
+We want to build integrations in key parts of Campfire, so that important information and powerful workflows can be automated from our platform to your other systems. 
 
 ## Why Zapier?
 {: .fs-10 }
@@ -41,6 +40,8 @@ This document covers the design and development of the Zapier App and integratio
 We are aggressively familiar with the importance of integrations. From experience building Orange Sky tech, integrations provide huge benefits to the operational capability of a team who uses many tools. Campfire is build for volunteer management, and has been designed to provide a fantastic experience to volunteers and managers in coordinating and delivering your organisation's mission. We focus on doing what we do best, and now we want to provide a solution that will allow your team to use Campfire's data with other tools to take your processes to the next level.
 
 ![Zapier trigger - action flow](./assets/zapier-flow.png)
+
+Campfire is a tool by non-profits for non-profits, and we believe in providing the most amount of value to as many teams as possible. By building our Zapier App we will be giving teams and organisations of all sizes access to integrations that will help them with gain huge improvements their processes, at any scale.
 
 Zapier was selected for our first integration project because it is connects with thousands of other web apps, straight out of the box. Zapier is designed to build workflows, and uses a trigger/action system to automate tasks in the background, leaving you even more time to focus on your mission.
 

@@ -5,7 +5,8 @@ nav_exclude: true
 ---
 
 # Zapier Integration Roadmap
-{: .no_toc } {: .fs-10 }
+{: .no_toc }
+{: .fs-10 }
 
 ![Zapier x Campfire](./assets/zapier-banner.png)
 

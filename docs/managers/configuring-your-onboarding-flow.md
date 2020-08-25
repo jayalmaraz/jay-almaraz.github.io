@@ -6,7 +6,8 @@ nav_order: 6
 ---
 
 # Campfire's onboarding flow
-{: .no_toc } {: .fs-10 }
+{: .no_toc }
+{: .fs-10 }
 
 We want every new volunteer to feel loved, but boxes need to be ticked before a new legend is ready to join your mission. Campfire gives you a platform to provide your new applicants and volunteers with an effortless onboarding experience that is smooth, simple, and guided, while demanding no ongoing effort or repetitive process from you or your team.
 

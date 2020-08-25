@@ -2,7 +2,7 @@
 layout: default
 title: Posting updates with Bulletins
 parent: Managers
-nav_order: 
+nav_order: 4
 ---
 
 # Posting updates with Bulletins

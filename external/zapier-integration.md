@@ -47,6 +47,21 @@ Zapier was selected for our first integration project because it is connects wit
 
 [Read more about Zapier](https://zapier.com/how-it-works).
 
+## Use Cases
+
+* **Contact Sync**: Campfire will generate Zapier triggers whenever a volunteer profile is created, or potentially when contact information is updated. This will allow you to create, or potentially update contacts/entities within CRM systems.
+* **Impact Sync**: Campfire could generate Zapier triggers as volunteer impact increases. This could be used to create and maintain simple records of volunteer contribution in CRM systems, or data visualisation tooling.
+* **Mailing Lists**: Campfire could generate Zapier triggers whenever volunteers move between programs, or join a new type of activity. These volunteers could then be added to mailing lists, or even have welcome messages sent directly to their inboxes.
+
+### Popular Zapier Apps
+
+From the use cases above, and the triggers covered below, it's easy to imagine the vastness of possible workflows that Zapier x Campfire will enable. Here is a quick list of some of the most popular apps that are already on Zapier, all of which could be used to create actions from Campfire triggers!
+
+![Zapier Popular Apps](./assets/zap-apps.png).
+![Zapier Featured Apps](./assets/zap-featured.png).
+
+[Explore all Zapier Apps](https://zapier.com/apps)
+
 ## Priority Triggers
 
 We are pushing through the R&D phase and prioritising some critical triggers that will enable a major portion of needs in CRM integrations.

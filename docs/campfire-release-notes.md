@@ -16,7 +16,7 @@ permalink: /docs/release-notes
 
 - **Improved experience when joining activities**: We are trying out a new and improved interface for volunteers to use when joining activities. The aim with this is to present a simpler set of messages for vollies who are applying to join a public or private team at any time. You can see these interfaces in action in our [new volunteer tutorial](https://guide.campfireapp.org/docs/volunteers/applying-to-join-a-team/#finding-an-activity).
 
-- **Bulletins**: Need to share important information to all of your volunteers? Bulletins allow admins to post messages and notify all volunteers via email. Vollies can go back and view any bulletin at any time. You can find the bulletins dashboard in the _Admin Console_, and view posted bulletins through the _My Elements_ page.
+- **Bulletins**: Need to share important information to all of your volunteers? Bulletins allow admins to post messages and notify all volunteers via email. Vollies can go back and view any bulletin at any time. You can find the [bulletins dashboard in the _Admin Console_](https://guide.campfireapp.org/docs/managers/posting-updates-with-bulletins/), and view posted bulletins through the _My Elements_ page.
 
 - **My Elements layout update**: We've restyled the My Elements page to give it more room to breath, with bulletins now added into the mix.
 

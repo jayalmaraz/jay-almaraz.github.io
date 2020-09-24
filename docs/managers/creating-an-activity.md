@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 # Creating an activity
-{: .no_toc }{: .fs-10 }
+{: .no_toc } {: .fs-10 }
 
 ---
 
@@ -53,9 +53,9 @@ Activities can be customised to suit a range of operating conditions. Let’s le
 
 When you first create an activity, we’ll ask you to fill out some basics.
 
-- Name: Give your activity a unique, memorable name. The name is used to identify the activity and will be the primary title for your activity across all interfaces.
-- Program: Every activity needs to belong to a program. Programs are used to group and separate activities and volunteers across your organisation. Read more about Programs and Campfire’s structure
-- (Optional) Description: Click Add a description to include additional information on the activity. Activity descriptions are visible to all volunteers.
+1. Name: Give your activity a unique, memorable name. The name is used to identify the activity and will be the primary title for your activity across all interfaces.
+1. Program: Every activity needs to belong to a program. Programs are used to group and separate activities and volunteers across your organisation. Read more about Programs and Campfire’s structure
+1. (Optional) Description: Click Add a description to include additional information on the activity. Activity descriptions are visible to all volunteers.
 
 ### Privacy settings
 
@@ -86,7 +86,7 @@ Regular activities will generate an empty roster for each day that the frequency
 
 **Flexible activities** do not run according to a set frequency. Rosters will need to be created individually; reports can then be submitted in response to the created rosters. Flexible activities are perfect for things that run irregularly, or for any kind of work that doesn't have a predictable daily, weekly, or monthly frequency.
 
-- (Optional) **Start and end dates**: Start and end dates are not required here, but can be added if the activity does have a distinct time frame.
+1. (Optional) **Start and end dates**: Start and end dates are not required here, but can be added if the activity does have a distinct time frame.
 
 ### Sessions
 
@@ -96,12 +96,12 @@ Each session is tied to a report type. Report types are the customised sets of q
 
 Let’s take a look at what goes into a session.
 
-- **Session name**: Pick a session name that describes what will be going on. Make each session name unique within the activity, and be sure to choose something that makes sense to you and your volunteers.
-- (Optional) **Description**: You can add a description to include additional info for volunteers who join the activity.
-- (Optional) **Alternative location**: Sessions will default to the activity location (which you choose in the following section), but you can specify a different location on sessions if needed. We cover activity location selection in the next part of this guide.
-- (Optional) **Start and end time**: Most sessions will have a known start time and end time. If the session does not occur at a set time, you can choose to leave these fields blank. The overall activity time will be taken from the earliest start and latest end time across all sessions.
-- **Volunteer numbers**: Indicate the minimum number of volunteers that the roster should expect for each session. You can at a maximum too if appropriate. Currently these numbers are for display only, and do not affect any functionality of the volunteer availability or roster building.
-- **Report type**: A report type is required for each session. You can choose a pre-existing report type from the dropdown. This selection will correspond to the report that your team submits at the end of each session. Consider breaking bigger reports into their own small session if intermediary reports don’t need to collect as much data. Admins can also create new report types at this step.
+1. **Session name**: Pick a session name that describes what will be going on. Make each session name unique within the activity, and be sure to choose something that makes sense to you and your volunteers.
+1. (Optional) **Description**: You can add a description to include additional info for volunteers who join the activity.
+1. (Optional) **Alternative location**: Sessions will default to the activity location (which you choose in the following section), but you can specify a different location on sessions if needed. We cover activity location selection in the next part of this guide.
+1. (Optional) **Start and end time**: Most sessions will have a known start time and end time. If the session does not occur at a set time, you can choose to leave these fields blank. The overall activity time will be taken from the earliest start and latest end time across all sessions.
+1. **Volunteer numbers**: Indicate the minimum number of volunteers that the roster should expect for each session. You can at a maximum too if appropriate. Currently these numbers are for display only, and do not affect any functionality of the volunteer availability or roster building.
+1. **Report type**: A report type is required for each session. You can choose a pre-existing report type from the dropdown. This selection will correspond to the report that your team submits at the end of each session. Consider breaking bigger reports into their own small session if intermediary reports don’t need to collect as much data. Admins can also create new report types at this step.
 
 ### Location
 

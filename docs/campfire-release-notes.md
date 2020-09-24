@@ -8,6 +8,24 @@ permalink: /docs/release-notes
 
 # Campfire - Release Notes
 
+![Location of the edit roster button](./release-notes/undraw_happy_announcement_ac67_campfire.png)
+
+## September 2020
+
+### `Campfire 1.2.0` - 25 September
+
+We're stoked to bring you Campfire's September update, with a load of new activities features. Everything that we talk about in this release can be applied to new activities and existing activities. Visit any existing activity and hit `Edit` to reveal all of the new functionality. Your existing activities are still exactly as they were before this release, so you don't need to make any changes right now if you don't want to.
+
+- **Hide activities**: You can now [hide an activity](https://guide.campfireapp.org/docs/managers/creating-an-activity/#privacy-settings) to make it private, which will remove it from the map on the volunteer's side. A hidden activity will remain visible to volunteers who are on that activity's team, and to all relevant managers through the activities console.
+
+- **Remote activities**: Activities can now exist [without requiring a physical address](https://guide.campfireapp.org/docs/managers/creating-an-activity/#location). A bunch of you are already using activities to hold remote meetings, or schedule phone calls. Now you can remove the physical location altogether to avoid confusion and keep the map tidy. You can even attach a URL or phone number for those important group hustles!
+
+- **Flexible activities**: Activities now come in two flavours: regular and flexible. Regular activities are exactly as they were before this release, whereas [flexible activities](https://guide.campfireapp.org/docs/managers/creating-an-activity/#activity-type) open the door to whole new world of sporadic opportunities that are easier to use, and won't clutter your timelines with irrelevant rosters and reports. 
+
+- **Instant rosters**: An essential sibling to flexible activities, [instant rosters](https://guide.campfireapp.org/docs/managers/create-an-instant-roster/) allow you to create rosters on dates that don't correspond to an activities original schedule.
+
+- **Rich text activity and session descriptions**: Links, styling, formatting; you can do it all now with rich text descriptions available to all activities and sessions.
+
 ## August 2020
 
 ### `Campfire 1.1.0` - 25 August

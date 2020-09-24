@@ -105,6 +105,8 @@ Regular activities will generate an empty roster for each day that the frequency
 
 **Flexible activities** do not run according to a set frequency. Rosters will need to be created individually; reports can then be submitted in response to the created rosters. Flexible activities are perfect for things that run irregularly, or for any kind of work that doesn't have a predictable daily, weekly, or monthly frequency.
 
+> Be sure to check out the [intro to rosters](/docs/managers/intro-to-rosters) and the chapter on [creating instant rosters](/docs/managers/create-an-instant-roster) if you're new to activities, or trying out flexible activities for the first time.
+
 ![Activity flexible activity settings](./assets/creating-an-activity/activity-flexible-selected.png)
 
 1. (Optional) **Start and end dates**: Start and end dates are not required here, but can be added if the activity does have a distinct time frame.

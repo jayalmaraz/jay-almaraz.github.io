@@ -64,7 +64,7 @@ Activities can be customised to suit a range of operating conditions. Let’s le
 
 When you first create an activity, we’ll ask you to fill out some basics.
 
-![YYYYYYYYYY](./assets/creating-an-activity/activity-basics.png)
+![Activity basic details section](./assets/creating-an-activity/activity-basics.png)
 
 1. Name: Give your activity a unique, memorable name. The name is used to identify the activity and will be the primary title for your activity across all interfaces.
 1. Program: Every activity needs to belong to a program. Programs are used to group and separate activities and volunteers across your organisation. Read more about Programs and Campfire’s structure
@@ -74,7 +74,7 @@ When you first create an activity, we’ll ask you to fill out some basics.
 
 Choose the privacy settings for your activity. Consider how you want volunteers to find the activity and join the team.
 
-![YYYYYYYYYY](./assets/creating-an-activity/activity-privacy-settings.png)
+![Activity privacy settings section](./assets/creating-an-activity/activity-privacy-settings.png)
 
 - Joining policy: You can choose to set the joining policy to open. An open activity will allow volunteers to join the team instantly and start applying for rosters.
 - Hide activity: Hide the activity if you want to remove it from volunteers’ view. Hidden activities will only be visible to volunteers who are on the team. Managers can still see all hidden activities through the Activities Console.
@@ -83,11 +83,11 @@ Choose the privacy settings for your activity. Consider how you want volunteers 
 
 For this section, you’ll need to consider the frequency of your activity. Some activities will be very regular, and recurring, while others might be sporadic or ad-hoc. Choose your activity type, and set the time frame using start and end dates.
 
-![YYYYYYYYYY](./assets/creating-an-activity/activity-activity-type.png)
+![Activity type section](./assets/creating-an-activity/activity-activity-type.png)
 
 **Regular activities** run according to a set frequency and have recurring rosters. They are ideal for repeating activities that use the same structure each time.
 
-![YYYYYYYYYY](./assets/creating-an-activity/acitivty-regular-selected.png)
+![Activity regular activity settings](./assets/creating-an-activity/acitivty-regular-selected.png)
 
 1. **Start date**: A start date is required to define the first date that the activity will run.
 1. (Optional) **End date**: You can add an end date if you want to define a set time frame for your activity.
@@ -105,7 +105,7 @@ Regular activities will generate an empty roster for each day that the frequency
 
 **Flexible activities** do not run according to a set frequency. Rosters will need to be created individually; reports can then be submitted in response to the created rosters. Flexible activities are perfect for things that run irregularly, or for any kind of work that doesn't have a predictable daily, weekly, or monthly frequency.
 
-![YYYYYYYYYY](./assets/creating-an-activity/activity-flexible-selected.png)
+![Activity flexible activity settings](./assets/creating-an-activity/activity-flexible-selected.png)
 
 1. (Optional) **Start and end dates**: Start and end dates are not required here, but can be added if the activity does have a distinct time frame.
 
@@ -113,13 +113,13 @@ Regular activities will generate an empty roster for each day that the frequency
 
 Every activity needs at least one session. Sessions give you a way of breaking down an activity into chunks. You can use these chunks to describe sequential shifts, parallel blocks of work, individual start/middle/end reports, and loads more.
 
-![YYYYYYYYYY](./assets/creating-an-activity/activity-sessions.png)
+![Activity sessions section](./assets/creating-an-activity/activity-sessions.png)
 
 Each session is tied to a report type. Report types are the customised sets of questions that include your impact data fields. Breaking an activity into multiple sessions is an easy way to allow different teams to record data over the same period of time, or across the duration of the activity. You can also dedicate sessions to smaller reports and leave a single session at the end of an activity to a larger, final report.
 
 Let’s take a look at what goes into a session.
 
-![YYYYYYYYYY](./assets/creating-an-activity/activity-add-session-dialog.png)
+![Activity create session dialog form](./assets/creating-an-activity/activity-add-session-dialog.png)
 
 1. **Session name**: Pick a session name that describes what will be going on. Make each session name unique within the activity, and be sure to choose something that makes sense to you and your volunteers.
 1. (Optional) **Description**: You can add a description to include additional info for volunteers who join the activity.
@@ -132,11 +132,11 @@ Let’s take a look at what goes into a session.
 
 Here you describe where your activity is taking place. All of your sessions so far, unless indicated otherwise, will inherit this location.
 
-![YYYYYYYYYY](./assets/creating-an-activity/activity-location-address-select.png)
+![Activity location section](./assets/creating-an-activity/activity-location-address-select.png)
 
 Use the location field to search for any address. If your activity is online, or doesn’t have any physical location then you can make it a remote activity.
 
-![YYYYYYYYYY](./assets/creating-an-activity/activity-location-remote.png)
+![Activity remote location](./assets/creating-an-activity/activity-location-remote.png)
 
 Remote activities can have a link or phone number attached. Remote info is only visible to volunteers who are part of the activity’s team.
 
@@ -144,9 +144,9 @@ Remote activities can have a link or phone number attached. Remote info is only 
 
 Attachments can be added to an activity. You can upload most images, files, or documents by clicking on Attach a File from Your Computer. Attachments are visible to all volunteers.
 
-![YYYYYYYYYY](./assets/creating-an-activity/activity-attachments-overview.png)
+![Activity attachments](./assets/creating-an-activity/activity-attachments-overview.png)
 
-![YYYYYYYYYY](./assets/creating-an-activity/activity-attachments-added.png)
+![Activity images attached](./assets/creating-an-activity/activity-attachments-added.png)
 
 ## What's next?
 {: .fs-10 }

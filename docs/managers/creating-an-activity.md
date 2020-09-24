@@ -151,4 +151,4 @@ Attachments can be added to an activity. You can upload most images, files, or d
 ## What's next?
 {: .fs-10 }
 
-[Learn more about rosters](/docs/managers/intro-to-rosters/)
+[Learn more about rosters](/docs/managers/intro-to-rosters)

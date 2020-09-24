@@ -51,4 +51,4 @@ Flexible activities, on the other hand, will not generate any empty rosters. You
 ## What's next?
 {: .fs-8 }
 
-[Learn how to create an instant roster](/docs/managers/create-an-instant-roster/)
+[Learn how to create an instant roster](/docs/managers/create-an-instant-roster)

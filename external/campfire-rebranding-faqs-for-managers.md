@@ -11,6 +11,8 @@ img {
 }
 </style>
 
+<!-- FAQs for managers -->
+
 ![Volaby, from Orange Sky](./assets/volaby-faqs-for-managers/volaby-banner-grab.png)
 
 # Campfire is rebranding!

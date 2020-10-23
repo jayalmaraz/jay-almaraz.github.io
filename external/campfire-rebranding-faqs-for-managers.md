@@ -92,4 +92,4 @@ Volunteers will be given their own set of FAQs later, with some questions and an
 # Thank you so much!
 {: .fs-10 }
 
-We hope that this answered as many questions as possible. Please feel to reach out if you have any further questions or different concerns. Our promise is always that nothing will be disrupted through this period. Feel free to sit back and
+We hope that this answered as many questions as possible. Please feel to reach out if you have any further questions or different concerns. Our promise is always that nothing will be disrupted through this period.

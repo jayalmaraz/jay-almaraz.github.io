@@ -28,7 +28,7 @@ A: Volaby is volunteering, simple as A to B.
 
 We don't sell tents. We want to work with teams like yours to build a volunteering experience that grows with your needs. Our goal is to connect good people with good technology, and we want it to feel as simple as A to B.
 
-![](./assets/volaby-faqs-for-managers/volaby-logo-equation.png)
+![What does the Volaby logo mean: Heart and hands up for volunteering](./assets/volaby-faqs-for-managers/volaby-logo-equation.png)
 
 ## Q: When is the change happening?
 

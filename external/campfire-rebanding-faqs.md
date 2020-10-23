@@ -83,3 +83,5 @@ If you're already following us, great! The same accounts will remain, but everyt
 # Thank you so much!
 
 We hope that this answered as many questions as possible. Please feel to reach out if you have any further questions or different concerns. Our promise is always that nothing will be disrupted through this period.
+
+![Volaby, volunteering as simple as A to B](./assets/volaby-faqs-for-managers/volaby-page-footer.png)

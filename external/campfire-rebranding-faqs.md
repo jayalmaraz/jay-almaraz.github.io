@@ -20,7 +20,8 @@ img {
 
 We're excited about the future, and we had a desire to create a unique identity that symbolises the impact we're trying to make on the community. We love what we have created with Campfire and what it represents to us, you, and our team. However, we wanted something that could stand on its own and truly demonstrate the space in which we are trying to reinvent. 
 
-Volaby represents everything volunteering from A to B, and encompasses our goal of making the volunteering experience as simple as A to B for individuals, teams, and organisations. We're also proud of our heritage and that we built this solution from our own experiences and as such have carried that Orange Sky colours into Volaby.
+# FAQS
+{: .fs-10 }
 
 ## Q: Why are we rebranding?
 
@@ -76,11 +77,13 @@ If you're already following us, great! The same accounts will remain, but everyt
 
 ### Follow Campfire (soon to be Volaby) on
 
-* [Facebook](https://www.facebook.com/YourCampfireApp/)
-* [Instagram](https://www.instagram.com/yourcampfire/)
-* [LinkedIn](https://www.linkedin.com/company/volaby)
+* <a href="https://www.facebook.com/YourCampfireApp/" target="_blank">Facebook</a>
+* <a href="https://www.instagram.com/yourcampfire/" target="_blank">Instagram</a>
+* <a href="https://www.linkedin.com/company/volaby" target="_blank">LinkedIn</a>
 
 # Thank you so much!
+
+Volaby represents everything volunteering from A to B, and encompasses our goal of making the volunteering experience as simple as A to B for individuals, teams, and organisations. We're also proud of our heritage and that we built this solution from our own experiences and as such have carried that Orange Sky colours into Volaby.
 
 We hope that this answered as many questions as possible. Please feel to reach out if you have any further questions or different concerns. Our promise is always that nothing will be disrupted through this period.
 

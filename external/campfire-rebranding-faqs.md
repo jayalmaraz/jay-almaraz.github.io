@@ -59,7 +59,7 @@ A: No.
 
 While you might notice some changes to the way that the newly named Volaby web app looks, nothing is required on your part to continue using Volaby as you always have. 
 
-## Q: Will we have to update all of the places that we link to Campfire? (Reposition this)
+## Q: Will we have to update all of the saved links to Campfire?
 
 A: Not immediately.
 

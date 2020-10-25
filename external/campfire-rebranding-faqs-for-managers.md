@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Volaby Rebranding FAQs for Managers
+title: Campfire Rebranding FAQs for Managers
 nav_exclude: true
 ---
 
@@ -15,7 +15,7 @@ img {
 
 ![Volaby, from Orange Sky](./assets/volaby-faqs-for-managers/volaby-banner-grab.png)
 
-# Volaby is rebranding!
+# Campfire is rebranding!
 {: .fs-10 }
 
 ## Q: Why are we rebranding?
@@ -32,7 +32,7 @@ We don't sell tents. We want to work with teams like yours to build a volunteeri
 
 ## Q: When is the change happening?
 
-A: Volaby will become Volaby at 07:00 AEST on Monday, 26 October. This will include updating the names and logos across all of our social platforms too.
+A: Campfire will become Volaby at 07:00 AEST on Monday, 26 October. This will include updating the names and logos across all of our social platforms too.
 
 ## Q: How will my volunteers know about the change?
 
@@ -49,7 +49,7 @@ Once Volaby is launched, we will show an in-app popup message to all volunteers 
 
 A: No.
 
-All existing bookmarks, links, and shortcuts to Volaby will be automatically redirected to the Volaby. Shortcut icons will update themselves after a couple of visits. Sign in email addresses and passwords will be entirely unchanged.
+All existing bookmarks, links, and shortcuts to Campfire will be automatically redirected to the Volaby. Shortcut icons will update themselves after a couple of visits. Sign in email addresses and passwords will be entirely unchanged.
 
 The more observant members of your team may notice:
 
@@ -63,7 +63,7 @@ The more observant members of your team may notice:
 A: No.
 
 While your team might notice some changes to the way that the newly named Volaby web app looks, nothing is required on their part to continue using Volaby as they always have.
-Volunteers will still be able to access Volaby through the Volaby URL, but we will encourage them to start using our new URL.
+Volunteers will still be able to access Volaby through the Campfire URL, but we will encourage them to start using our new URL.
 
 ## Q: Will we have to update all of the places that we link to Volaby?
 
@@ -75,7 +75,7 @@ All of your existing links will seamlessly redirect to the Volaby URL. These mig
 
 A: Yes, if it's convenient.
 
-Once we launch on Monday, 26 October, then all traces of Volaby will disappear from our end. Although the functionality will remain identical, Volaby will be what the volunteer sees. If your volunteers see Volaby in one place but Volaby in another it could cause confusion of uncertainty, particular in new applicants. If you have any key documentation or posts that talk about Volaby it's best that you update these to refer to Volaby; especially if it's content that you expect your volunteers to view.
+Once we launch on Monday, 26 October, then all traces of Volaby will disappear from our end. Although the functionality will remain identical, Volaby will be what the volunteer sees. If your volunteers see Campfire in one place but Volaby in another it could cause confusion of uncertainty, particular in new applicants. If you have any key documentation or posts that talk about Volaby it's best that you update these to refer to Volaby; especially if it's content that you expect your volunteers to view.
 
 ## Q: Is your website changing too?
 

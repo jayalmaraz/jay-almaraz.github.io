@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Volaby Rebranding FAQs
+title: Campfire Rebranding FAQs
 nav_exclude: true
 ---
 
@@ -15,10 +15,10 @@ img {
 
 ![Volaby, from Orange Sky](./assets/volaby-faqs-for-managers/volaby-banner-grab.png)
 
-# Volaby is rebranding!
+# Campfire is rebranding!
 {: .fs-10 }
 
-We're excited about the future, and we had a desire to create a unique identity that symbolises the impact we're trying to make on the community. We love what we have created with Volaby and what it represents to us, you, and our team. However, we wanted something that could stand on its own and truly demonstrate the space in which we are trying to reinvent.
+We're excited about the future, and we had a desire to create a unique identity that symbolises the impact we're trying to make on the community. We love what we have created with Campfire and what it represents to us, you, and our team. However, we wanted something that could stand on its own and truly demonstrate the space in which we are trying to reinvent.
 
 # FAQS
 {: .fs-10 }
@@ -63,9 +63,9 @@ While you might notice some changes to the way that the newly named Volaby web a
 
 A: Not immediately.
 
-All of your existing links will seamlessly redirect to the Volaby URL. You will still be able to access Volaby through the Volaby URL, but we will encourage you to start using our new URL.
+All of your existing links will seamlessly redirect to the Volaby URL. You will still be able to access Volaby through the Campfire URL, but we will encourage you to start using our new URL.
 
-## Q: Is the Volaby (Volaby) website changing too?
+## Q: Is the Volaby (Campfire) website changing too?
 
 A: Yep.
 
@@ -75,7 +75,7 @@ The `campfireapp.org` website will start automatically redirecting to a new si
 
 If you're already following us, great! The same accounts will remain, but everything will be updated to the new `@volaby` content. If you're yet to follow our socials, now is the chance to keep up to date with Volaby tech4good content, get in touch and share your thoughts, and subscribe to stories from heaps of our other partner orgs.
 
-### Follow Volaby (soon to be Volaby) on
+### Follow Volaby on
 
 - <a href="https://www.facebook.com/YourVolabyApp/" target="_blank">Facebook</a>
 - <a href="https://www.instagram.com/yourcampfire/" target="_blank">Instagram</a>

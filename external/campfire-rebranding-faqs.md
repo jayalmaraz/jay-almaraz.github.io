@@ -77,8 +77,8 @@ If you're already following us, great! The same accounts will remain, but everyt
 
 ### Follow Volaby on
 
-- <a href="https://www.facebook.com/YourVolabyApp/" target="_blank">Facebook</a>
-- <a href="https://www.instagram.com/yourcampfire/" target="_blank">Instagram</a>
+- <a href="https://www.facebook.com/volaby/" target="_blank">Facebook</a>
+- <a href="https://www.instagram.com/volaby/" target="_blank">Instagram</a>
 - <a href="https://www.linkedin.com/company/volaby" target="_blank">LinkedIn</a>
 
 # Thank you so much!

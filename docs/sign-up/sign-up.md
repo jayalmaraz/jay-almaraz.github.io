@@ -1,18 +1,18 @@
 ---
 layout: default
-title: Creating your Campfire Account
+title: Creating your Volaby Account
 nav_order: 2
 has_children: true
 permalink: /docs/sign-up
 ---
 
-# Creating your Campfire Account
+# Creating your Volaby Account
 {:.no_toc }
 
-## Welcome to Campfire!
+## Welcome to Volaby!
 {:.no_toc .fs-10 }
 
-Campfire can do lots of things for you and your team. Before you join the rest of your team you'll first need to set up your profile.
+Volaby can do lots of things for you and your team. Before you join the rest of your team you'll first need to set up your profile.
 
 ---
 
@@ -29,10 +29,10 @@ Campfire can do lots of things for you and your team. Before you join the rest o
 
 ### Creating an account using the Sign Up form
 
-To create an account you need to visit the Sign Up form. You'll normally be directed here through a link on a website, or via an email. The sign up form asks for three (3) simple things to create your Campfire account:
+To create an account you need to visit the Sign Up form. You'll normally be directed here through a link on a website, or via an email. The sign up form asks for three (3) simple things to create your Volaby account:
 
 1. `Your name` (first and last),
-2. `Your email address` (used to sign in to Campfire and receive news), and
+2. `Your email address` (used to sign in to Volaby and receive news), and
 3. `A password`
 
 ![Sign up form with name, email, and password fields filled out](./assets/sign-up/sign-up-form-fields.png)
@@ -41,13 +41,13 @@ Fill these details out and continue to the next screen.
 
 You might encounter a couple of screening questions. These are simple yes/no questions that give your organisation a little more information about yourself. Complete these to finalise your sign up.
 
-If everything looks good you'll be sent to the email verification step. You will have received an email from `postman@campfireapp.org` (be sure to check your junk) asking you to verify your email address. Follow the link provided in the email to complete this verification. Once this is done you can return to your original Campfire tab, where you'll be signed into your account.
+If everything looks good you'll be sent to the email verification step. You will have received an email from `noreply@volaby.org` (be sure to check your junk) asking you to verify your email address. Follow the link provided in the email to complete this verification. Once this is done you can return to your original Volaby tab, where you'll be signed into your account.
 
-Sometimes your organisation needs to review your sign up application first. Once this has been approved you'll receive another email from `postman@campfireapp.org` with further instructions on on verifying your email address and finalising your sign up.
+Sometimes your organisation needs to review your sign up application first. Once this has been approved you'll receive another email from `noreply@volaby.org` with further instructions on on verifying your email address and finalising your sign up.
 
 ### Activating your account after receiving an invitation email
 
-If you've been invited to Campfire by someone already in your team then your sign up process will be a little faster than what is described above.
+If you've been invited to Volaby by someone already in your team then your sign up process will be a little faster than what is described above.
 
 Follow the link in the email to the sign up form, where you'll find your email address already filled in. Just enter your name and choose a password. If you want to use a different email address you can do that too.
 
@@ -80,10 +80,9 @@ If you need to change any of the responses to a completed task you can open it a
 
 Anything listed in the `Extra Tasks` section may not be required to complete your initial profile, but might be good to include depending on your role in the team. Read through these carefully to see if any make sense to complete, given your situation.
 
-
 ## Next Steps
 
-As soon as your volunteer profile is completed you'll be signed in to your Campfire volunteer account. Welcome to Campfire!
+As soon as your volunteer profile is completed you'll be signed in to your Volaby volunteer account. Welcome to Volaby!
 
 Check out the [guide on applying to join a team](../volunteers/applying-to-join-a-team.md) for some things that you can do next.
 
@@ -98,7 +97,7 @@ If you find yourself encountering a `Network error` on the Sign **Up** screen th
 
 ![Network error on the sign up screen](./assets/sign-up/network-error.png)
 
-Head back to the Sign **In** screen (using the `Sign In` button in the menu at the top of the the page) and try using your email address and your Campfire password.
+Head back to the Sign **In** screen (using the `Sign In` button in the menu at the top of the the page) and try using your email address and your Volaby password.
 
 ![Network error on the sign up screen](./assets/sign-up/sign-up-menu-buttons.png)
 
@@ -108,6 +107,6 @@ If you don't remember your password hit the `Forgot password?` link on the sign 
 
 ![Password reset email sent after following forgot password instructions](./assets/sign-up/forgot-password-circled.png)
 
-Enter your email address and we'll have a password reset link sent to you. The email will come from `postman@campfireapp.org`. Be sure to check your spam/junk folders.
+Enter your email address and we'll have a password reset link sent to you. The email will come from `noreply@volaby.org`. Be sure to check your spam/junk folders.
 
 ![Password reset email sent after following forgot password instructions](./assets/sign-up/reset-password-done.png)

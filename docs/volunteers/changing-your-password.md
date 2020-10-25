@@ -16,10 +16,10 @@ nav_order: 2
 
 ---
 
-## Changing your password on Campfire
+## Changing your password on Volaby
 {: .fs-10 }
 
-Changing your password while signed into Campfire can be done through your Account Settings. To access Account Settings simply open your user menu from the top-right corner of your screen and hit `Account Settings`.
+Changing your password while signed into Volaby can be done through your Account Settings. To access Account Settings simply open your user menu from the top-right corner of your screen and hit `Account Settings`.
 
 ![Opening Account Settings through the user menu](./assets/changing-your-password/avatar-menu.png)
 
@@ -31,12 +31,11 @@ Once in Account Settings, open the `Password` screen and follow the instructions
 
 ![Opening Account Settings through the user menu](./assets/changing-your-password/dialogs.png)
 
-Once you're happy with your new password hit `Update Password`, and you're done! Your new password can now be used the next time you sign into Campfire.
+Once you're happy with your new password hit `Update Password`, and you're done! Your new password can now be used the next time you sign into Volaby.
 
 ---
 
 ## Can't sign in?
 {: .fs-10 }
 
-If you're having trouble signing in or you think that you have forgotten your password, you can check the [FAQs section of the account creation guide](https://guide.campfireapp.org/docs/sign-up#faqs) for info, including how to reset your password.
-{: .mb-8 }
+If you're having trouble signing in or you think that you have forgotten your password, you can check the [FAQs section of the account creation guide](https://guide.volaby.org/docs/sign-up#faqs) for info, including how to reset your password.{: .mb-8 }

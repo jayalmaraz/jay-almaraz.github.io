@@ -19,22 +19,22 @@ nav_order: 1
 ## What are Activities, and why do they exist?
 {: .fs-10 }
 
-Activities are our way of connecting volunteers with amazing opportunities. An Activity on Campfire can be anything: a weekly shift, a weekend event, a standalone speaking engagement, or a massive all-day activation.
+Activities are our way of connecting volunteers with amazing opportunities. An Activity on Volaby can be anything: a weekly shift, a weekend event, a standalone speaking engagement, or a massive all-day activation.
 
 We have a vision for volunteering that is inclusive of, but also extends far beyond, the regular week-by-week service model that our previous system (Shifts) were bias towards. You have a dedicated, passionate, and diverse pool of volunteers who are all driven by a common desire to do good, and to be a part of something bigger than themselves. With Activities, we are building an ecosystem wherein your vollies can feel more engaged and be even closer to new volunteering opportunities as they arise.
 
 In this article we'll be introducing the fundamentals of Activities, and all of their supporting systems. Let's find out how Activities fit into your operations.
 
-## Campfire Structure
+## Volaby Structure
 {: .fs-9 }
 
-It's important to understand the basic structure of Campfire to see how Activities fit into the system. As outlined above, we've made a few changes to terminology as well. The new names and pages will be referenced constantly throughout this guide and the Campfire application.
+It's important to understand the basic structure of Volaby to see how Activities fit into the system. As outlined above, we've made a few changes to terminology as well. The new names and pages will be referenced constantly throughout this guide and the Volaby application.
 
-![Campfire entity structure breakdown](./introduction-to-activities-assets/org-structure.png)
+![Volaby entity structure breakdown](./introduction-to-activities-assets/org-structure.png)
 
-1. **Organisation** -- Your organisation sits at the very top of your Campfire account. Settings such as your application screening questions, onboarding prerequisite, activity roles, and eventually Report Types all sit at the organisational level.
+1. **Organisation** -- Your organisation sits at the very top of your Volaby account. Settings such as your application screening questions, onboarding prerequisite, activity roles, and eventually Report Types all sit at the organisational level.
 1. **Program** -- Programs are used to break down your volunteers and activities into manageable pools. Programs might be region based, or structured by the type of operation that they contain, or both! The Program Manager role can be assigned to split the work between your leaders and managers.
-1. **Activity** -- The core of Campfire operations, Activities are where volunteers are connected with your mission. Rosters and Reports are all managed through activities; we cover how to use these systems further down the page.
+1. **Activity** -- The core of Volaby operations, Activities are where volunteers are connected with your mission. Rosters and Reports are all managed through activities; we cover how to use these systems further down the page.
 1. **Session** -- Within an Activity there are Sessions. A Session is simply used to distinguish individual units of work. An Activity may have one session, or several.
 
 ## Using the Activities Console

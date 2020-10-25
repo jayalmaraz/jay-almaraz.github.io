@@ -37,7 +37,7 @@ With your new resource created, you'll be looking at the resource editor. Once y
 
 The resource editor includes an easy to use rich text editor for you to put content in. This area can be left blank if you don't have anything to say, but it's always nice to leave a message or description. If you want to get serious about structure you can do that too!
 
-![The basic Campfire rich text editor](./assets/resources/text-editor.png){: .my-8 }
+![The basic Volaby rich text editor](./assets/resources/text-editor.png){: .my-8 }
 
 Our text editor includes, from left to right, **Bold**, _Italic_, Underline, ~~Strikethrough~~, and `Monospace` formatting. You can apply any of these formats to normal text by either selecting the style and then typing, or by highlighting a section of text then choosing the style (or styles!) that you want. Hit the button again when you're done to switch the style off.
 

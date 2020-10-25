@@ -8,11 +8,10 @@ nav_order: 5
 # Using the Admin Console
 {: .no_toc }
 
-## Build your Campfire
-{: .no_toc }
-{: .fs-10 }
+## Build your Volaby
+{: .no_toc .fs-10 }
 
-The Admin Console is the home all of the most important settings for your Campfire. Understanding these options and how they affect other parts of Campfire is important. This guide looks at each of the panels on the Admin Console to give an overview of the system, as well as showing how to use the various interfaces.
+The Admin Console is the home all of the most important settings for your Volaby. Understanding these options and how they affect other parts of Volaby is important. This guide looks at each of the panels on the Admin Console to give an overview of the system, as well as showing how to use the various interfaces.
 
 ---
 
@@ -74,7 +73,7 @@ Closure reasons are used when an activity is being closed. Closing an activity i
 ## Admins
 {: .fs-10 }
 
-Administrators can manage other admin accounts through this panel. Your Campfire must always have at least one admin account, so we won't let you remove your last one!
+Administrators can manage other admin accounts through this panel. Your Volaby must always have at least one admin account, so we won't let you remove your last one!
 
 <!-- ### Understanding admin privileges -->
 
@@ -89,7 +88,7 @@ Existing users can be upgraded to administrators using the `Add admin` button. E
 ## Incident Reporting
 {: .fs-10 }
 
-Having a good safety culture is crucial. Campfire aims to provide a platform for detailed incident reporting through configureable incident severities and categories. These settings are reflected on the Incident Report, and can be customised to fit your style of operations.
+Having a good safety culture is crucial. Volaby aims to provide a platform for detailed incident reporting through configureable incident severities and categories. These settings are reflected on the Incident Report, and can be customised to fit your style of operations.
 
 ### Incident Severities
 
@@ -103,7 +102,7 @@ Severities can be re-ordered using the handle on the left, and removed using the
 
 ### Incident Categories
 
-Categorising incidents is critical to gaining insights into the risks that may emerge as your teams and operations grow. Campfire has a particular structure to incident categories which allow for many layers of sub-groupings before a final option is presented.
+Categorising incidents is critical to gaining insights into the risks that may emerge as your teams and operations grow. Volaby has a particular structure to incident categories which allow for many layers of sub-groupings before a final option is presented.
 
 On the incident report, categories and groups behave identically -- they are effectively folders which contain more layers. The difference between a category and a group is that a group can only contain `Details`. This means that a group will be the last layer that is created before details are finally added.
 

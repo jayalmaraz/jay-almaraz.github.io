@@ -16,8 +16,7 @@ img {
 </style>
 
 # Creating an activity
-{: .no_toc }
-{: .fs-10 }
+{: .no_toc .fs-10 }
 
 ---
 
@@ -34,7 +33,7 @@ In this guide we’ll show you everything you need to know to create an activity
 ## What is an activity?
 {: .fs-10 }
 
-Activities are Campfire’s way of connecting volunteers with volunteering opportunities. In Campfire, an activity can be almost anything: weekly outreach shifts, monthly catch ups, weekend events, packing events, ad-hoc meetups, and anything in between.
+Activities are Volaby’s way of connecting volunteers with volunteering opportunities. In Volaby, an activity can be almost anything: weekly outreach shifts, monthly catch ups, weekend events, packing events, ad-hoc meetups, and anything in between.
 
 Let's start with the lifecycle of an activity:
 
@@ -67,7 +66,7 @@ When you first create an activity, we’ll ask you to fill out some basics.
 ![Activity basic details section](./assets/creating-an-activity/activity-basics.png)
 
 1. Name: Give your activity a unique, memorable name. The name is used to identify the activity and will be the primary title for your activity across all interfaces.
-1. Program: Every activity needs to belong to a program. Programs are used to group and separate activities and volunteers across your organisation. Read more about Programs and Campfire’s structure
+1. Program: Every activity needs to belong to a program. Programs are used to group and separate activities and volunteers across your organisation. Read more about Programs and Volaby’s structure
 1. (Optional) Description: Click Add a description to include additional information on the activity. Activity descriptions are visible to all volunteers.
 
 ### Privacy settings

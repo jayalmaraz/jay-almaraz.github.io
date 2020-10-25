@@ -5,11 +5,10 @@ parent: Managers
 nav_order: 6
 ---
 
-# Campfire's onboarding flow
-{: .no_toc }
-{: .fs-10 }
+# Volaby's onboarding flow
+{: .no_toc .fs-10 }
 
-We want every new volunteer to feel loved, but boxes need to be ticked before a new legend is ready to join your mission. Campfire gives you a platform to provide your new applicants and volunteers with an effortless onboarding experience that is smooth, simple, and guided, while demanding no ongoing effort or repetitive process from you or your team.
+We want every new volunteer to feel loved, but boxes need to be ticked before a new legend is ready to join your mission. Volaby gives you a platform to provide your new applicants and volunteers with an effortless onboarding experience that is smooth, simple, and guided, while demanding no ongoing effort or repetitive process from you or your team.
 
 ---
 
@@ -24,13 +23,13 @@ We want every new volunteer to feel loved, but boxes need to be ticked before a 
 ## One step at a time
 {: .fs-10 }
 
-To get the most out of Campfire, and give your volunteers the best experience, you'll want to have an understanding of our onboarding flow. We start with a new applicant signing up, move through an email verification, and then enter the 'Set up your profile' stage. The volunteer is onboarded once they have met requirements and have a completed and approved volunteer profile.
+To get the most out of Volaby, and give your volunteers the best experience, you'll want to have an understanding of our onboarding flow. We start with a new applicant signing up, move through an email verification, and then enter the 'Set up your profile' stage. The volunteer is onboarded once they have met requirements and have a completed and approved volunteer profile.
 
 Let's walk through each stage;
 
-![Campfire onboard flow diagram](./assets/configuring-your-flow/onboarding-flow.png){: .my-8 }
+![Volaby onboard flow diagram](./assets/configuring-your-flow/onboarding-flow.png){: .my-8 }
 
-Campfire's onboarding flow is simple from the volunteer's perspective. There are a few key points in the process that will determine where your manual check-ins, if any, will exist. We have marked these points `1`, `2`, and `3` in the blue circles on the diagram -- let's dig in.
+Volaby's onboarding flow is simple from the volunteer's perspective. There are a few key points in the process that will determine where your manual check-ins, if any, will exist. We have marked these points `1`, `2`, and `3` in the blue circles on the diagram -- let's dig in.
 
 ### 1. Application review and Screening Questions
 
@@ -50,11 +49,11 @@ On the same `Onboarding` panel in the Admin Console, the auto-approve switch is 
 
 After a volunteer has an approved application, they will have a user account. This is displayed as the `Account Created` status on [Incoming Volunteers](). Every volunteer most complete their initial volunteer profile task before they are able to access the remainder of the required and extra tasks.
 
-Campfire uses this time to capture critical user information to put toward the applicants profile, like a contact number, and date of birth. Most importantly this is the stage that we ask the applicant to select a program, ensuring that your Program Managers can track the applicant as soon as possible.
+Volaby uses this time to capture critical user information to put toward the applicants profile, like a contact number, and date of birth. Most importantly this is the stage that we ask the applicant to select a program, ensuring that your Program Managers can track the applicant as soon as possible.
 
-To activate checkpoint `2` simply locate the **Campfire Volunteer Profile** task on the required tasks page and flick the `Manual Review` switch off. You should see this at the top of the list on the Volunteer Profile page in the Admin Console.
+To activate checkpoint `2` simply locate the **Volaby Volunteer Profile** task on the required tasks page and flick the `Manual Review` switch off. You should see this at the top of the list on the Volunteer Profile page in the Admin Console.
 
-A perfect use for this checkpoint is as an expression of interest form. If you need to review volunteers before allowing them to continue with the other tasks, just build your introductory questions into the **Campfire Volunteer Profile** and turn `Manual Review` off.
+A perfect use for this checkpoint is as an expression of interest form. If you need to review volunteers before allowing them to continue with the other tasks, just build your introductory questions into the **Volaby Volunteer Profile** and turn `Manual Review` off.
 
 ### 3. Volunteer Profile completion
 
@@ -94,7 +93,7 @@ Volunteers will see the required and extra tasks in the same way that you do in 
 
 ### Manual review
 
-The manual review setting for all of your tasks (besides the **Campfire Volunteer Profile**) is found on this Task Details panel. Switch it on to enforce that this task is always reviewed by a manager or admin before the volunteer profile can be completed.
+The manual review setting for all of your tasks (besides the **Volaby Volunteer Profile**) is found on this Task Details panel. Switch it on to enforce that this task is always reviewed by a manager or admin before the volunteer profile can be completed.
 
 Check out the [onboarding flow](#campfires-onboarding-flow) discussion above for more detail.
 
@@ -110,11 +109,11 @@ You can use headings to add structure to your tasks. Headings are ideal for intr
 
 Instructions give you all of the functionality of our rich text editor to be used anywhere that your task needs it. This could be anything ranging from a simple subtitle to complement a `Heading`, to an entire volunteer agreement.
 
-If you need to add links to external websites or shared files, then Instructions has got you covered on that too. Find out more [adding links with the rich editor](https://guide.campfireapp.org/docs/managers/uploading-content-with-resources/#adding-links-using-the-text-editor) from our other guide.
+If you need to add links to external websites or shared files, then Instructions has got you covered on that too. Find out more [adding links with the rich editor](https://guide.volaby.org/docs/managers/uploading-content-with-resources/#adding-links-using-the-text-editor) from our other guide.
 
 ## Deleting Tasks and Fields
 
-Campfire does not currently support moving fields between tasks, or recovering tasks and fields once they're deleted. The delete task and delete field functionality is perfect for experimentation when creating and designing new tasks.
+Volaby does not currently support moving fields between tasks, or recovering tasks and fields once they're deleted. The delete task and delete field functionality is perfect for experimentation when creating and designing new tasks.
 
 Please be aware that deleting a task or field that has been used by your organisation will result in that information becoming inaccessible. We strongly recommend against removing tasks and fields that are pre-existing and have already been used by volunteers.
 

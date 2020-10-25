@@ -6,7 +6,7 @@ has_children: true
 permalink: /docs/volunteers
 ---
 
-# How to be the best Volunteer on Campfire
+# How to be the best Volunteer on Volaby
 
-Read about Campfire's volunteering features, built especially for amazing people, like you!
+Read about Volaby's volunteering features, built especially for amazing people, like you!
 {: .fs-4 .fw-300 }

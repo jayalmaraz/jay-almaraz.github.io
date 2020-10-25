@@ -1,6 +1,6 @@
-# Campfire Guide
+# Volaby Guide
 
-Github Pages repo for Campfire's guides and documentation
+Github Pages repo for Volaby's guides and documentation
 
 ## Style Guide
 

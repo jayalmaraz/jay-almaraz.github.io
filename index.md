@@ -2,11 +2,11 @@
 layout: default
 title: Home
 nav_order: 1
-description: "How to use Campfire, Campfire best practices & tutorials, volunteer management tips | Product guide."
+description: "How to use Volaby, Volaby best practices & tutorials, volunteer management tips | Product guide."
 permalink: /
 ---
 
-# Handy Campfire Guides
+# Handy Volaby Guides
 
 Check out some of the popular guides here, search for something above, or use the menus to the left to browse all guides.
 
@@ -127,10 +127,10 @@ Check out some of the popular guides here, search for something above, or use th
   <a href="/docs/sign-up" class="cfg-card">
     <div class="cfg-card-content">
       <h2>
-        Creating your Campfire Account
+        Creating your Volaby Account
       </h2>
       <p>
-        Join your team on Campfire! Learn how to create an account and set up your profile.
+        Join your team on Volaby! Learn how to create an account and set up your profile.
       </p>
       <span class="cfg-hover-text">
         Read the guide →
@@ -156,7 +156,7 @@ Check out some of the popular guides here, search for something above, or use th
         Upload content using 'Resources'
       </h2>
       <p>
-        Add your own files and information to Campfire as Resources.
+        Add your own files and information to Volaby as Resources.
       </p>
       <span class="cfg-hover-text">
         Read the guide →

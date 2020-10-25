@@ -8,7 +8,7 @@ nav_order: 1
 # Applying to join an Activity
 {: .no_toc }
 
-The first step to volunteering on Campfire is to find an activity and join the team. Teams are groups of volunteers that are attached to an activity. You can browse all of the activities that your organisation runs by visiting the `Activities` page and selecting the `All Activities` tab. In this article we'll walk you through the important steps in joining a team, and highlight the features of the Activities page.
+The first step to volunteering on Volaby is to find an activity and join the team. Teams are groups of volunteers that are attached to an activity. You can browse all of the activities that your organisation runs by visiting the `Activities` page and selecting the `All Activities` tab. In this article we'll walk you through the important steps in joining a team, and highlight the features of the Activities page.
 
 ---
 
@@ -25,7 +25,7 @@ The first step to volunteering on Campfire is to find an activity and join the t
 
 Once your volunteer profile has been completed, you'll have access to your full volunteering account. The first page that you'll want to visit is the `Activities` page.
 
-<!-- If this is your first time on Campfire, you'll also be greeted with an onboarding checklist `[1]`. You can open the onboarding checklist at any time, and click on the active step - which will be marked with a blue button `[2]` - to be taken to the right place. -->
+<!-- If this is your first time on Volaby, you'll also be greeted with an onboarding checklist `[1]`. You can open the onboarding checklist at any time, and click on the active step - which will be marked with a blue button `[2]` - to be taken to the right place. -->
 
 ![Landing on the All Activities page](./assets/applying-to-join-a-team/all-activities-landing-all-activities.png)
 

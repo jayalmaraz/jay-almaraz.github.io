@@ -3,6 +3,7 @@ title: Volaby Guide
 remote_theme: pmarsceill/just-the-docs
 logo: "/assets/images/campfire-guide-side-logo.png"
 heading_anchors: true
+url: "https://guide.volaby.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 ga_tracking: UA-149024912-4
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)

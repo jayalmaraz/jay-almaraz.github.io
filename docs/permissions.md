@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Volaby Permissions Guide
+title: Permissions Guide
 nav_order: 6
 has_children: false
 permalink: /docs/permissions

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Volaby Operations Hierarchy
+title: Operations Hierarchy
 nav_order: 5
 has_children: false
 permalink: /docs/hierarchy

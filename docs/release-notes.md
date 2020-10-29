@@ -8,7 +8,7 @@ permalink: /docs/release-notes
 
 # Volaby - Release Notes
 
-![Location of the edit roster button](./release-notes/undraw_happy_announcement_ac67_campfire.png)
+![Location of the edit roster button](./assets/volaby.release-notes-header.png)
 
 ## September 2020
 

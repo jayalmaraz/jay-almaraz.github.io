@@ -6,13 +6,28 @@ has_children: false
 permalink: /docs/release-notes
 ---
 
-
 ![Location of the edit roster button](./assets/volaby.release-notes-header.png)
 
 # Volaby - Release Notes
 {: .fs-10 }
 
 Updates and upgrades inspired by you and your volunteers, with love from our team to yours.
+
+## October 2020
+
+### `Volaby 2.0.0` - 30 October
+
+With the launch of our new name, we are officially version 2.0! No massive changes were made alongside the launch of Volaby, but we're excited to share all the new features and enhancements we've been working on to make Volaby work better for you. These features and fixes were released weekly throughout October, in an effort to ensure that the improvements reached you and your team as soon as possible. We hope you enjoy these changes!
+
+- **Remove applicants from incoming volunteers:** Managers will find the 'Remove Applicant' button when viewing a profile on incoming volunteers. You can use this to remove individual applicants from the list. Removed applicants get an email advising them that their account has been closed.
+- **Export a CSV of your incoming volunteers:** Managers can download the list of incoming volunteers as a CSV file. The file includes email addresses, account status, task completion progress, and more.
+- **More access to volunteer info:** The volunteer database has received a nifty upgrade that makes sure more data is available. The full volunteer profile can now be added to the table view, including tasks from their onboarding, and stats from their personal impact profiles. The ability to show and hide columns on the table view has also been added.
+- **Filtered downloads in the volunteer database:** Instead of exporting a full dataset the volunteer database will now only export the current view of the database. What you see is what you get!
+- **Keep tasks updated on behalf of your volunteers:** Managers can now help volunteers with updating submitted task responses. Open any volunteer profile through the volunteer database and view an individual task to find the 'Edit task' button. Managers can't make changes to the core volunteer profile just yet.
+- **Request for change of details form:** Need to update your name, email, or important info on your volunteer profile? Send us a change of details request by submitting the in-app form under 'Volunteer Profile' in account settings.
+- **Add attachments to tasks:** On the volunteer profile task builder, in the admin console, you'll now find 'Content' instead of 'Instructions'. Content can include text and file attachments alongside rich text. Add any important files or documents that your applicants will need to access while completing the task.
+- **Activity report facelift:** We've redesigned the activity report screen with a focus on simplifying the interface to make it easier for volunteers to start reports. If you're a manager and you can't find what you're looking for hit he 'View in Activities Console' to go to the timeline and browse all history.
+- **Activities sorted by next occurrence:** The activities map views will now be arranged in order of when they are next scheduled to run. This should make the list of activities easier to work with for volunteers and managers.
 
 ## September 2020
 

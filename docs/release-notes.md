@@ -6,9 +6,13 @@ has_children: false
 permalink: /docs/release-notes
 ---
 
-# Volaby - Release Notes
 
 ![Location of the edit roster button](./assets/volaby.release-notes-header.png)
+
+# Volaby - Release Notes
+{: .fs-10 }
+
+Updates and upgrades inspired by you and your volunteers, with love from our team to yours.
 
 ## September 2020
 

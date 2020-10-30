@@ -30,7 +30,7 @@ In this article we'll be introducing the fundamentals of Activities, and all of 
 
 It's important to understand the basic structure of Volaby to see how Activities fit into the system. As outlined above, we've made a few changes to terminology as well. The new names and pages will be referenced constantly throughout this guide and the Volaby application.
 
-![Volaby entity structure breakdown](./introduction-to-activities-assets/org-structure.png)
+![Volaby entity structure breakdown](../../docs/assets/VolabyHierarchyChart.png)
 
 1. **Organisation** -- Your organisation sits at the very top of your Volaby account. Settings such as your application screening questions, onboarding prerequisite, activity roles, and eventually Report Types all sit at the organisational level.
 1. **Program** -- Programs are used to break down your volunteers and activities into manageable pools. Programs might be region based, or structured by the type of operation that they contain, or both! The Program Manager role can be assigned to split the work between your leaders and managers.
